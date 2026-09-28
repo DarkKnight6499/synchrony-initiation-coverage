@@ -1,0 +1,3183 @@
+
+syf-20260331
+0001601712
+false
+2026
+Q1
+December 31
+http://fasb.org/us-gaap/2025#OtherAssets
+http://fasb.org/us-gaap/2025#OtherAssets
+0
+0
+1
+1
+364
+420
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+syf:security
+xbrli:pure
+syf:creditScoreCategory
+syf:payment
+syf:segment
+0001601712
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:CommonStockMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:SeriesAPreferredStockMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:SeriesBPreferredStockMember
+2026-01-01
+2026-03-31
+0001601712
+2026-04-17
+0001601712
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-01-01
+2025-03-31
+0001601712
+2026-03-31
+0001601712
+2025-12-31
+0001601712
+srt:ConsolidatedEntityExcludingVariableInterestEntitiesVIEMember
+2026-03-31
+0001601712
+srt:ConsolidatedEntityExcludingVariableInterestEntitiesVIEMember
+2025-12-31
+0001601712
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2026-03-31
+0001601712
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-12-31
+0001601712
+us-gaap:PreferredStockMember
+2024-12-31
+0001601712
+us-gaap:CommonStockMember
+2024-12-31
+0001601712
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001601712
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001601712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001601712
+us-gaap:TreasuryStockCommonMember
+2024-12-31
+0001601712
+2024-12-31
+0001601712
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:TreasuryStockCommonMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:SeriesAPreferredStockMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:SeriesAPreferredStockMember
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:SeriesBPreferredStockMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:SeriesBPreferredStockMember
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:PreferredStockMember
+2025-03-31
+0001601712
+us-gaap:CommonStockMember
+2025-03-31
+0001601712
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001601712
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001601712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001601712
+us-gaap:TreasuryStockCommonMember
+2025-03-31
+0001601712
+2025-03-31
+0001601712
+us-gaap:PreferredStockMember
+2025-12-31
+0001601712
+us-gaap:CommonStockMember
+2025-12-31
+0001601712
+us-gaap:AdditionalPaidInCapitalMember
+2025-12-31
+0001601712
+us-gaap:RetainedEarningsMember
+2025-12-31
+0001601712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-12-31
+0001601712
+us-gaap:TreasuryStockCommonMember
+2025-12-31
+0001601712
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:TreasuryStockCommonMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:AdditionalPaidInCapitalMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:SeriesAPreferredStockMember
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:SeriesBPreferredStockMember
+us-gaap:RetainedEarningsMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:PreferredStockMember
+2026-03-31
+0001601712
+us-gaap:CommonStockMember
+2026-03-31
+0001601712
+us-gaap:AdditionalPaidInCapitalMember
+2026-03-31
+0001601712
+us-gaap:RetainedEarningsMember
+2026-03-31
+0001601712
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2026-03-31
+0001601712
+us-gaap:TreasuryStockCommonMember
+2026-03-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+2026-03-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+2025-12-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2026-03-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+2025-12-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2026-03-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+2025-12-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+2026-03-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+2025-12-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+2026-03-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+2025-12-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+2025-12-31
+0001601712
+us-gaap:ConsumerLoanMember
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+2025-12-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+2025-12-31
+0001601712
+us-gaap:UnallocatedFinancingReceivablesMember
+2026-03-31
+0001601712
+us-gaap:UnallocatedFinancingReceivablesMember
+2025-12-31
+0001601712
+syf:FederalReserveDiscountWindowMember
+2026-03-31
+0001601712
+syf:FederalReserveDiscountWindowMember
+2025-12-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+us-gaap:SubsequentEventMember
+2026-04-01
+2026-04-30
+0001601712
+us-gaap:CreditCardReceivablesMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:UnallocatedFinancingReceivablesMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+2024-12-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+2024-12-31
+0001601712
+us-gaap:ConsumerLoanMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+2024-12-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+2025-03-31
+0001601712
+us-gaap:UnallocatedFinancingReceivablesMember
+2024-12-31
+0001601712
+us-gaap:UnallocatedFinancingReceivablesMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:UnallocatedFinancingReceivablesMember
+2025-03-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+us-gaap:CreditCardReceivablesMember
+2026-03-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+us-gaap:CreditCardReceivablesMember
+2026-03-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+us-gaap:CreditCardReceivablesMember
+2026-03-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+us-gaap:ConsumerLoanMember
+2026-03-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+us-gaap:ConsumerLoanMember
+2026-03-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+us-gaap:ConsumerLoanMember
+2026-03-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+us-gaap:CommercialPortfolioSegmentMember
+2026-03-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+us-gaap:CommercialPortfolioSegmentMember
+2026-03-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+us-gaap:CommercialPortfolioSegmentMember
+2026-03-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+2026-03-31
+0001601712
+syf:FinancialAssetEqualToOrGreaterThan90DaysPastDueAndAccruingMember
+2026-03-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+us-gaap:CreditCardReceivablesMember
+2025-12-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+us-gaap:CreditCardReceivablesMember
+2025-12-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+us-gaap:CreditCardReceivablesMember
+2025-12-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+us-gaap:ConsumerLoanMember
+2025-12-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+us-gaap:ConsumerLoanMember
+2025-12-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+us-gaap:ConsumerLoanMember
+2025-12-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-12-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-12-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-12-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+2025-12-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-12-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+2025-12-31
+0001601712
+syf:FinancialAssetEqualToOrGreaterThan90DaysPastDueAndAccruingMember
+2025-12-31
+0001601712
+syf:SixHundredAndFiftyOneOrHigherMember
+us-gaap:CreditCardReceivablesMember
+2026-03-31
+0001601712
+syf:FiveHundredAndNinetyOneToSixHundredAndFiftyMember
+us-gaap:CreditCardReceivablesMember
+2026-03-31
+0001601712
+syf:FiveHundredAndNinetyOrLessMember
+us-gaap:CreditCardReceivablesMember
+2026-03-31
+0001601712
+syf:SixHundredAndFiftyOneOrHigherMember
+us-gaap:CreditCardReceivablesMember
+2025-12-31
+0001601712
+syf:FiveHundredAndNinetyOneToSixHundredAndFiftyMember
+us-gaap:CreditCardReceivablesMember
+2025-12-31
+0001601712
+syf:FiveHundredAndNinetyOrLessMember
+us-gaap:CreditCardReceivablesMember
+2025-12-31
+0001601712
+syf:SixHundredAndFiftyOneOrHigherMember
+us-gaap:CreditCardReceivablesMember
+2025-03-31
+0001601712
+syf:FiveHundredAndNinetyOneToSixHundredAndFiftyMember
+us-gaap:CreditCardReceivablesMember
+2025-03-31
+0001601712
+syf:FiveHundredAndNinetyOrLessMember
+us-gaap:CreditCardReceivablesMember
+2025-03-31
+0001601712
+syf:SixHundredAndFiftyOneOrHigherMember
+us-gaap:CommercialPortfolioSegmentMember
+2026-03-31
+0001601712
+syf:FiveHundredAndNinetyOneToSixHundredAndFiftyMember
+us-gaap:CommercialPortfolioSegmentMember
+2026-03-31
+0001601712
+syf:FiveHundredAndNinetyOrLessMember
+us-gaap:CommercialPortfolioSegmentMember
+2026-03-31
+0001601712
+syf:SixHundredAndFiftyOneOrHigherMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-12-31
+0001601712
+syf:FiveHundredAndNinetyOneToSixHundredAndFiftyMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-12-31
+0001601712
+syf:FiveHundredAndNinetyOrLessMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-12-31
+0001601712
+syf:SixHundredAndFiftyOneOrHigherMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-03-31
+0001601712
+syf:FiveHundredAndNinetyOneToSixHundredAndFiftyMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-03-31
+0001601712
+syf:FiveHundredAndNinetyOrLessMember
+us-gaap:CommercialPortfolioSegmentMember
+2025-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+2026-01-01
+2026-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+2025-01-01
+2025-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+2026-01-01
+2026-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+2025-01-01
+2025-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+2026-01-01
+2026-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+2025-01-01
+2025-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+2026-01-01
+2026-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+2025-01-01
+2025-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+2026-01-01
+2026-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+2025-01-01
+2025-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+2026-01-01
+2026-03-31
+0001601712
+syf:ModificationDateAmountMember
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+2025-01-01
+2025-03-31
+0001601712
+syf:ModificationDateAmountMember
+2026-01-01
+2026-03-31
+0001601712
+syf:ModificationDateAmountMember
+2025-01-01
+2025-03-31
+0001601712
+syf:LongTermModificationMember
+2026-01-01
+2026-03-31
+0001601712
+syf:ShortTermModificationMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2026-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2026-03-31
+0001601712
+us-gaap:FinancialAssetNotPastDueMember
+2026-03-31
+0001601712
+us-gaap:FinancialAssetNotPastDueMember
+2026-01-01
+2026-03-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+2026-01-01
+2026-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2025-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:LongTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2025-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2025-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:CreditCardReceivablesMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:ConsumerLoanMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetNotPastDueMember
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+syf:FinancingReceivables30to89DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:CommercialPortfolioSegmentMember
+syf:ShortTermModificationMember
+us-gaap:FinancialAssetPastDueMember
+2025-03-31
+0001601712
+us-gaap:FinancialAssetNotPastDueMember
+2025-03-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-03-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+2025-03-31
+0001601712
+us-gaap:FinancialAssetNotPastDueMember
+2025-01-01
+2025-03-31
+0001601712
+syf:FinancingReceivables30to89DaysPastDueMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:FinancingReceivablesEqualToGreaterThan90DaysPastDueMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:FinancialAssetPastDueMember
+2025-01-01
+2025-03-31
+0001601712
+syf:InvestmentsFundingCommitmentMember
+2026-03-31
+0001601712
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2026-03-31
+0001601712
+us-gaap:ComputerSoftwareIntangibleAssetMember
+2025-12-31
+0001601712
+us-gaap:OtherIntangibleAssetsMember
+2026-03-31
+0001601712
+us-gaap:OtherIntangibleAssetsMember
+2025-12-31
+0001601712
+syf:FiniteLivedIntangibleAssetsExcludingCustomerContractsMember
+us-gaap:OtherExpenseMember
+2026-01-01
+2026-03-31
+0001601712
+syf:FiniteLivedIntangibleAssetsExcludingCustomerContractsMember
+us-gaap:OtherExpenseMember
+2025-01-01
+2025-03-31
+0001601712
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+syf:FixedSecuritizedBorrowingsMember
+srt:MinimumMember
+2026-03-31
+0001601712
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+syf:FixedSecuritizedBorrowingsMember
+srt:MaximumMember
+2026-03-31
+0001601712
+syf:FixedSecuritizedBorrowingsMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2026-03-31
+0001601712
+syf:FixedSecuritizedBorrowingsMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-12-31
+0001601712
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+syf:FloatingSecuritizedBorrowingsMember
+srt:MinimumMember
+2026-03-31
+0001601712
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+syf:FloatingSecuritizedBorrowingsMember
+srt:MaximumMember
+2026-03-31
+0001601712
+syf:FloatingSecuritizedBorrowingsMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2026-03-31
+0001601712
+syf:FloatingSecuritizedBorrowingsMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-12-31
+0001601712
+syf:FixedSeniorUnsecuredNotesMember
+srt:MinimumMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+syf:FixedSeniorUnsecuredNotesMember
+srt:MaximumMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+syf:FixedSeniorUnsecuredNotesMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+syf:FixedSeniorUnsecuredNotesMember
+us-gaap:SeniorNotesMember
+2025-12-31
+0001601712
+syf:FixedToFloatingSeniorUnsecuredNotesDue2031Member
+srt:MinimumMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+syf:FixedToFloatingSeniorUnsecuredNotesDue2031Member
+srt:MaximumMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+syf:FixedToFloatingSeniorUnsecuredNotesDue2031Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+syf:FixedToFloatingSeniorUnsecuredNotesDue2031Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001601712
+srt:SubsidiariesMember
+syf:FixedSeniorUnsecuredNotesMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+srt:SubsidiariesMember
+syf:FixedSeniorUnsecuredNotesMember
+us-gaap:SeniorNotesMember
+2025-12-31
+0001601712
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+us-gaap:SeniorNotesMember
+2025-12-31
+0001601712
+syf:FixedSubordinatedUnsecuredNotesMember
+srt:MinimumMember
+us-gaap:SeniorSubordinatedNotesMember
+2026-03-31
+0001601712
+syf:FixedSubordinatedUnsecuredNotesMember
+srt:MaximumMember
+us-gaap:SeniorSubordinatedNotesMember
+2026-03-31
+0001601712
+syf:FixedSubordinatedUnsecuredNotesMember
+us-gaap:SeniorSubordinatedNotesMember
+2026-03-31
+0001601712
+syf:FixedSubordinatedUnsecuredNotesMember
+us-gaap:SeniorSubordinatedNotesMember
+2025-12-31
+0001601712
+syf:SeniorAndSubordinatedNotesMember
+2026-03-31
+0001601712
+syf:SeniorAndSubordinatedNotesMember
+2025-12-31
+0001601712
+syf:FixedToFloatingSeniorUnsecuredNotesDue2032Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+syf:FixedToFloatingSeniorUnsecuredNotesDue2032Member
+us-gaap:SeniorNotesMember
+2026-01-01
+2026-03-31
+0001601712
+syf:CommittedCapacityMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2026-03-31
+0001601712
+syf:CommittedCapacityMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-12-31
+0001601712
+syf:UncommittedCapacityMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2026-03-31
+0001601712
+syf:UncommittedCapacityMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-12-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001601712
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001601712
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001601712
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001601712
+us-gaap:FairValueMeasurementsRecurringMember
+2026-03-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001601712
+us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001601712
+us-gaap:USStatesAndPoliticalSubdivisionsMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001601712
+us-gaap:ResidentialMortgageBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001601712
+us-gaap:AssetBackedSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001601712
+us-gaap:OtherDebtSecuritiesMember
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001601712
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001601712
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001601712
+us-gaap:FairValueMeasurementsRecurringMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001601712
+us-gaap:FairValueMeasurementsRecurringMember
+2025-12-31
+0001601712
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001601712
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+us-gaap:FairValueInputsLevel1Member
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+us-gaap:FairValueInputsLevel2Member
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+us-gaap:FairValueInputsLevel3Member
+2026-03-31
+0001601712
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:SeniorNotesMember
+2026-03-31
+0001601712
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001601712
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+us-gaap:FairValueInputsLevel1Member
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+us-gaap:FairValueInputsLevel2Member
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:VariableInterestEntityPrimaryBeneficiaryMember
+us-gaap:FairValueInputsLevel3Member
+2025-12-31
+0001601712
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:SeniorNotesMember
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:SeniorNotesMember
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel1Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001601712
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+us-gaap:FairValueInputsLevel3Member
+us-gaap:SeniorNotesMember
+2025-12-31
+0001601712
+syf:BaselIIIMember
+2026-03-31
+0001601712
+syf:BaselIIIMember
+2025-12-31
+0001601712
+syf:BaselIIIMember
+srt:SubsidiariesMember
+2026-03-31
+0001601712
+syf:BaselIIIMember
+srt:SubsidiariesMember
+2025-12-31
+0001601712
+syf:SynchronySegmentMember
+2026-01-01
+2026-03-31
+0001601712
+syf:SynchronySegmentMember
+2025-01-01
+2025-03-31
+0001601712
+syf:JonathanS.MothnerMember
+2026-01-01
+2026-03-31
+0001601712
+syf:JonathanS.MothnerMember
+2026-03-31
+0001601712
+syf:JeffreyG.NaylorMember
+2026-01-01
+2026-03-31
+0001601712
+syf:JeffreyG.NaylorMember
+2026-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 
+10-Q
+☒ | QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+March 31, 2026
+OR
+☐ | TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from         to         
+001-36560
+(Commission File Number)
+SYNCHRONY FINANCIAL
+(Exact name of registrant as specified in its charter)
+Delaware | 51-0483352
+(State or other jurisdiction of incorporation or organization) | (I.R.S. Employer Identification No.)
+777 Long Ridge Road
+Stamford, | Connecticut | 06902
+(Address of principal executive offices) | (Zip Code)
+(Registrant’s telephone number, including area code) 
+-
+  (
+203
+) 
+585-2400
+Securities Registered Pursuant to Section 12(b) of the Act:
+Title of each class | Trading Symbol(s) | Name of each exchange on which registered
+Common stock, par value $0.001 per share | SYF | New York Stock Exchange
+Depositary Shares Each Representing a 1/40th Interest in a Share of 5.625% Fixed Rate Non-Cumulative Perpetual Preferred Stock, Series A | SYFPrA | New York Stock Exchange
+Depositary Shares Each Representing a 1/40th Interest in a Share of 8.250% Fixed Rate Reset Non-Cumulative Perpetual Preferred Stock, Series B | SYFPrB | New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    
+Yes
+☒
+    No  
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    
+Yes
+☒
+    No  
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. 
+Large Accelerated Filer | ☒ | Accelerated Filer | ☐
+Non-Accelerated Filer | ☐ | Smaller Reporting Company | ☐
+Emerging Growth Company | ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes  
+☐
+    No  
+☒
+The number of shares of the registrant’s common stock, par value $0.001 per share, outstanding as of April 17, 2026 was 
+336,951,336
+.
+Table of Contents
+Synchrony Financial 
+PART I - FINANCIAL INFORMATION | Page
+Item 2.  Management's Discussion and Analysis of Financial Condition and Results of Operations | 6
+Item 1.  Financial Statements:
+Index to Condensed Consolidated Financial Statements | 30
+Condensed Consolidated Statements of Earnings – Three months ended March 31, 2026 and 2025 | 31
+Condensed Consolidated Statements of Comprehensive Income – Three months ended March 31, 2026 and 2025 | 32
+Condensed Consolidated Statements of Financial Position – March 31, 2026 and December 31, 2025 | 33
+Condensed Consolidated Statements of Changes in Equity – Three months ended March 31, 2026 and 2025 | 34
+Condensed Consolidated Statements of Cash Flows – Three months ended March 31, 2026 and 2025 | 35
+Notes to Condensed Consolidated Financial Statements | 36
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk | 56
+Item 4.  Controls and Procedures | 56
+PART II - OTHER INFORMATION
+Item 1.  Legal Proceedings | 57
+Item 1A.  Risk Factors | 57
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds | 57
+Item 3.  Defaults Upon Senior Securities | 57
+Item 4.  Mine Safety Disclosures | 57
+Item 5.  Other Information | 58
+Item 6.  Exhibits | 59
+Signatures | 60
+3
+Table of Contents
+Certain Defined Terms
+Except as the context may otherwise require in this report, references to:
+•
+“we,” “us,” “our” and the “Company” are to SYNCHRONY FINANCIAL and its subsidiaries;
+•
+“Synchrony” are to SYNCHRONY FINANCIAL only;
+•
+the “Bank” are to Synchrony Bank (a subsidiary of Synchrony);
+•
+the “Board of Directors” or “Board” are to Synchrony's board of directors; 
+•
+“CECL” are to the impairment model known as the Current Expected Credit Loss model, which is based on expected credit losses; 
+•
+“Dodd-Frank Act” are to the Dodd-Frank Wall Street Reform and Consumer Protection Act; 
+•
+“Exchange Act” are to the Securities Exchange Act of 1934, as amended;
+•
+“Fitch” are to Fitch Ratings, Inc.;
+•
+“Moody's” are to Moody’s Investor Services, Inc.; and
+•
+“VantageScore” are to a credit score developed by the three major credit reporting agencies which is used as a means of evaluating the likelihood that credit users will pay their obligations.
+We provide a range of credit products through programs we have established with a diverse group of national and regional retailers, local merchants, manufacturers, buying groups, industry associations and healthcare service providers, which, in our business and in this report, we refer to as our “partners.” The terms of the programs all require cooperative efforts between us and our partners of varying natures and degrees to establish and operate the programs. Our use of the term “partners” to refer to these entities is not intended to, and does not, describe our legal relationship with them, imply that a legal partnership or other relationship exists between the parties or create any legal partnership or other relationship.
+Unless otherwise indicated, references to “loan receivables” do not include loan receivables held for sale.
+For a description of certain other terms we use, including “active account” and “purchase volume,” see the notes to “
+Management’s Discussion and Analysis
+—
+Results of Operations
+—
+Other Financial and Statistical Data
+” in our Annual Report on Form 10-K for the year ended December 31, 2025 (our “2025 Form 10-K”). There is no standard industry definition for many of these terms, and other companies may define them differently than we do.
+“Synchrony” and its logos and other trademarks referred to in this report, including CareCredit®, Quickscreen®, Dual Card™, Synchrony Car Care™ and SyPI™, belong to us. Solely for convenience, we refer to our trademarks in this report without the ™ and ® symbols, but such references are not intended to indicate that we will not assert, to the fullest extent under applicable law, our rights to our trademarks. Other service marks, trademarks and trade names referred to in this report are the property of their respective owners.
+On our website at https://investors.synchrony.com, we make available under the "Filings & Regulatory-SEC Filings" menu selection, free of charge, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports filed or furnished pursuant to Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended (the "Exchange Act") as soon as reasonably practicable after such reports or amendments are electronically filed with, or furnished to, the SEC. The SEC maintains an Internet site at www.sec.gov that contains reports, proxy and information statements, and other information that we file electronically with the SEC.
+4
+Table of Contents
+Cautionary Note Regarding Forward-Looking Statements:
+Various statements in this Quarterly Report on Form 10-Q may contain “forward-looking statements” as defined in Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), which are subject to the “safe harbor” created by those sections. Forward-looking statements may be identified by words such as “expects,” “intends,” “anticipates,” “plans,” “believes,” “seeks,” “targets,” “outlook,” “estimates,” “will,” “should,” “may,” “aim,” “focus,” “goal,” “confident,” “trajectory,” “priorities,” “designed,” “consider,” “opportunity” or words of similar meaning, but these words are not the exclusive means of identifying forward-looking statements.
+Forward-looking statements are based on management’s current expectations and assumptions, and are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict. As a result, actual results could differ materially from those indicated in these forward-looking statements. Factors that could cause actual results to differ materially include global political, economic, business, competitive, market, regulatory and other factors and risks, such as: the impact of macroeconomic and geopolitical conditions, including factors impacting consumer confidence and economic growth in the United States, such as inflation, interest rates, tariffs (including retaliatory tariffs), energy prices, global conflicts and an economic downturn or recession, and whether industry trends we have identified develop as anticipated; the impact of changes made or influenced by the U.S. presidential administration and Congress on fiscal, monetary and regulatory policy, including with respect to constraints on the pricing of our credit products; the impact of the federal government shutdowns; retaining existing partners and attracting new partners, concentration of our revenue in a small number of partners, and promotion and support of our products by our partners; cyber-attacks or other security incidents or breaches; disruptions in the operations of our and our outsourced partners' computer systems and data centers; the financial performance of our partners; product, pricing and policy changes related to the Consumer Financial Protection Bureau’s (the “CFPB”) final rule on credit card late fees, which was vacated in April 2025; the sufficiency of our allowance for credit losses and the accuracy of the assumptions or estimates used in preparing our financial statements, including those related to the CECL accounting guidance; higher borrowing costs and adverse financial market conditions impacting our funding and liquidity, and any reduction in our credit ratings; our ability to grow our deposits in the future; damage to our reputation; our ability to securitize our loan receivables, occurrence of an early amortization of our securitization facilities, and lower payment rates on our securitized loan receivables; changes in benchmark or market interest rates; effectiveness of our risk management processes and procedures, reliance on models which may be inaccurate or misinterpreted, and our ability to manage our credit risk; our ability to offset increases in our costs in retailer share arrangements; competition in the consumer finance industry; our concentration in the U.S. consumer credit market and susceptibility to market fluctuations and legislative and regulatory developments; our ability to successfully develop and commercialize new or enhanced products and services; our ability to realize the value of acquisitions, dispositions and strategic investments; reductions in interchange fees; fraudulent activity; failure of third-parties to provide various services that are important to our operations; international risks and compliance and regulatory risks and costs associated with international operations; alleged infringement of intellectual property rights of others and our ability to protect our intellectual property; litigation, regulatory actions and compliance issues; our ability to attract, retain and motivate key officers and employees; tax legislation initiatives or challenges to our tax positions and/or interpretations, and state sales tax rules and regulations; regulation, supervision, examination and enforcement of our business by governmental authorities, the impact of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the “Dodd-Frank Act”) and other legislative and regulatory developments and the impact of the CFPB's regulation of our business, including new requirements and constraints that Synchrony and the Bank are or will become subject to as a result of having $100 billion or more in total assets; impact of capital adequacy rules and liquidity requirements; restrictions that limit our ability to pay dividends and repurchase our common stock, and restrictions that limit the Bank’s ability to pay dividends to us; regulations relating to privacy, information security and data protection; use of third-party vendors and ongoing third-party business relationships; and failure to comply with anti-money laundering and anti-terrorism financing laws.
+For the reasons described above, we caution you against relying on any forward-looking statements, which should also be read in conjunction with the other cautionary statements that are included elsewhere in this report and in our public filings, including under the heading 
+“Risk Factors Relating to Our Business”
+ and 
+“Risk Factors Relating to Regulation”
+ in our 2025 Form 10-K. You should not consider any list of such factors to be an exhaustive statement of all of the risks, uncertainties, or potentially inaccurate assumptions that could cause our current expectations or beliefs to change. Further, any forward-looking statement, including under the heading 
+"Business Trends and Conditions"
+ below, speaks only as of the date on which it is made, and we undertake no obligation to update or revise any forward-looking statement to reflect events or circumstances after the date on which the statement is made or to reflect the occurrence of unanticipated events, except as otherwise may be required by law.
+5
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our condensed consolidated financial statements and related notes included elsewhere in this quarterly report and in our 2025 Form 10-K. The discussion below contains forward-looking statements that are based upon current expectations and are subject to uncertainty and changes in circumstances. Actual results may differ materially from these expectations. See “
+Cautionary Note Regarding Forward-Looking Statements
+.”
+Introduction and Business Overview 
+____________________________________________________________________________________________
+We
+are a premier consumer financial services company delivering one of the industry's most complete digitally-enabled product suites. Our experience, expertise and scale encompass a broad spectrum of industries including digital, health and wellness, retail, telecommunications, home, auto, outdoor, pet and more. We have an established and diverse group of national and regional retailers, local merchants, manufacturers, buying groups, industry associations and healthcare service providers, which we refer to as our “partners.” For the three months ended March 31, 2026, we financed $43.0 billion of purchase volume and had 68.8 million average active accounts and at March 31, 2026, we had $100.1 billion of loan receivables.
+We offer our credit products primarily through our wholly-owned subsidiary, the Bank. In addition, through the Bank, we offer, directly to retail, affinity relationships and commercial customers, a range of deposit products insured by the Federal Deposit Insurance Corporation (“FDIC”), including certificates of deposit, individual retirement accounts (“IRAs”), money market accounts, savings accounts and sweep and affinity deposits. We also take deposits at the Bank through third-party firms that offer our FDIC-insured deposit products to their customers. Our deposit base has continued to serve as a source of stable and diversified low-cost funding for our credit activities. At March 31, 2026, we had $82.9 billion in deposits, which represented 83% of our total funding sources.
+Our Sales Platforms
+____________________________________________________________________________________________
+We conduct our operations through a single business segment. Profitability and expenses, including funding costs, credit losses and operating expenses, are managed for the business as a whole. Substantially all of our revenue generating activities are within the United States and are aligned through five sales platforms (Home & Auto, Digital, Diversified & Value, Health & Wellness and Lifestyle). Those platforms are organized by the types of partners we work with, and are measured on interest and fees on loans, loan receivables, active accounts and other sales metrics.
+6
+Table of Contents
+Home & Auto
+Our Home & Auto sales platform provides comprehensive payments and financing solutions with integrated in-store and digital experiences through a broad network of partners and merchants providing home and automotive merchandise and services, as well as our Synchrony Car Care network and Synchrony HOME credit card offering. Our Home & Auto sales platform partners include a wide range of key retailers in the home improvement, furniture, bedding, flooring, appliance and electronics industries, such as Ashley HomeStores, Inc., Floor & Decor, Lowe's, and Mattress Firm, as well as automotive merchandise and services, such as Chevron and Discount Tire. In addition, we also have program agreements with manufacturers, buying groups and industry associations, such as Generac, Nationwide Marketing Group and the Home Furnishings Association.
+Digital
+Our Digital sales platform provides comprehensive payments and financing solutions with integrated digital experiences through partners and merchants who primarily engage with their consumers through digital channels. Our Digital sales platform includes key partners delivering digital payment solutions, such as PayPal, including our Venmo program, online marketplaces, such as Amazon, and digital-first brands and merchants, such as the QVC Group, Inc., Verizon and Virgin Red.
+Diversified & Value
+Our Diversified & Value sales platform provides comprehensive payments and financing solutions with integrated in-store and digital experiences through large retail partners who deliver everyday value to consumers shopping for daily needs or important life moments. Our Diversified & Value sales platform is comprised of six large retail partners: Belk, Fleet Farm, JCPenney, OnePay, Sam's Club and TJX Companies, Inc.
+Health & Wellness
+Our Health & Wellness sales platform provides 
+comprehensive healthcare payments and financing solutions, through a network of providers and retail locations, for those seeking health and wellness care for themselves, their families and their pets, and includes our CareCredit brand, as well as partners such as Walgreens.
+Lifestyle
+Our Lifestyle sales platform provides comprehensive payments and financing solutions with integrated in-store and digital experiences through partners and merchants who offer merchandise in power sports, outdoor power equipment, and other industries such as sporting goods, apparel, jewelry and music. Our Lifestyle sales platform partners include a wide range of key retailers in the apparel, specialty retail, outdoor, music and luxury industry, such as American Eagle, Dick's Sporting Goods, Guitar Center, Pandora, Polaris, Suzuki and Sweetwater.
+Corp, Other
+Corp, Other includes activity and balances related to certain program agreements with retail partners and merchants that will not be renewed beyond their current expiration date and certain programs that were previously terminated, which are not managed within the five sales platforms discussed above, as well as fee income generated from Versatile Credit. Corp, Other also includes amounts related to changes in the fair value of equity investments and realized gains or losses associated with the sale of businesses and investments.
+7
+Table of Contents
+Our Credit Products
+____________________________________________________________________________________________
+Through our sales platforms, we offer three principal types of credit products: credit cards, commercial credit products and consumer installment loans. We also offer our Payment Security program, which is a debt cancellation product.
+The following table sets forth each credit product by type and indicates the percentage of our total loan receivables that are under standard terms only or pursuant to a promotional financing offer at March 31, 2026:
+Promotional Offer
+Credit Product | Standard Terms Only | Deferred Interest | Other Promotional | Total
+Credit cards | 62.7 | 17.3 | 12.7 | 92.7
+Commercial credit products | 1.9 | — | — | 1.9
+Consumer installment loans | — | 0.1 | 5.2 | 5.3
+Other | 0.1 | — | — | 0.1
+Total | 64.7 | 17.4 | 17.9 | 100.0
+Credit Cards
+We offer the following principal types of credit cards: 
+•
+Private Label Credit Cards.
+ Private label credit cards are partner-branded credit cards (e.g., Lowe’s or Amazon) or program-branded credit cards (e.g., Synchrony Car Care or CareCredit) that are used primarily for the purchase of goods and services from the partner or within the program network. In addition, in some cases, cardholders may be permitted to access their credit card accounts for cash advances. Credit under our private label credit cards is extended either on standard terms only or pursuant to a promotional financing offer.
+•
+Co-Branded Cards.
+ Our co-branded cards comprise our patented Dual Cards and general purpose co-branded credit cards. Our Dual Cards are credit cards that function as private label credit cards when used to purchase goods and services from our partners, and as general purpose credit cards when used to make purchases from other retailers wherever cards from those card networks are accepted or for cash advance transactions. We also offer a Synchrony-branded general purpose credit card. Our co-branded cards are offered across all of our sales platforms and credit is typically extended on standard terms only. We offer co-branded cards through over 15 of our large partners, of which the majority are Dual Cards, as well as our CareCredit Dual Card. Our consumer co-branded cards totaled 34% of our total loan receivables portfolio at March 31, 2026.
+Commercial Credit Products
+We offer private label cards and Dual Cards for commercial customers that are similar to our consumer offerings. We also offer a commercial pay-in-full accounts receivable product to a wide range of business customers.
+Installment Loans
+We originate secured installment loans to consumers in the United States, primarily in our Lifestyle sales platform for power products in our Outdoor market (motorcycles, ATVs and lawn and garden). We also offer unsecured installment loans to consumers across all of our sales platforms through various products, such as Synchrony's Pay Later solutions. Installment loans are closed-end credit accounts where the customer pays down the outstanding balance in installments. Installment loans, other than our Synchrony Pay Later Pay in 4 product, are generally assessed periodic finance charges using fixed interest rates. 
+8
+Table of Contents
+Business Trends and Conditions
+____________________________________________________________________________________________
+We believe our business and results of operations will be impacted in the future by various trends and conditions. For a discussion of certain trends and conditions, see “
+Management's Discussion and Analysis of Financial Condition and Results of Operations—Business Trends and Conditions
+” in our 2025 Form 10-K. For a discussion of how certain trends and conditions impacted the three months ended March 31, 2026, see
+“—
+Results of Operations.
+” 
+Seasonality
+____________________________________________________________________________________________
+Our business is typically influenced by a seasonal pattern, with purchase volume and loan receivables typically rising beginning in the third quarter and generally peaking in fourth quarter, including the impacts of consumer spending for U.S. holidays, then declining through the first and second quarters as customers pay their balances down. 
+Delinquency rates and delinquent loan receivables balances typically rise in the third and fourth quarters as customer payment rates decline, resulting in higher net charge-off rates in the first half of the calendar year. Delinquent loan receivables at year-end are more likely to return to current status than those delinquent at interim period ends. Consistent with this historical experience, our allowance for credit losses as a percentage of total loan receivables is generally higher at interim period ends than at year-end and may increase mid-year even when certain credit metrics improve.
+These seasonal impacts to purchase volume and our loan receivables balances may materially affect our results of operations, delinquency metrics and the allowance for credit losses as a percentage of total loan receivables with the most pronounced effects typically occurring between the fourth quarter and the subsequent first quarter. Our loan receivables decreased by $3.7 billion, or 3.6% to $100.1 billion at March 31, 2026 compared to $103.8 billion at December 31, 2025, and our allowance for credit losses as a percentage of total loan receivables increased to 10.42% at March 31, 2026, from 10.06% at December 31, 2025, reflecting these same seasonal trends.
+9
+Table of Contents
+Results of Operations 
+____________________________________________________________________________________________
+Summary Highlights for the Three Months Ended March 31, 2026
+Earnings
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Interest income | $ | 5,603 | $ | 5,550
+Interest expense | 968 | 1,086
+Net interest income | 4,635 | 4,464
+Retailer share arrangements | (1,070) | (895)
+Provision for credit losses | 1,335 | 1,491
+Net interest income, after retailer share arrangements and provision for credit losses | 2,230 | 2,078
+Other income | 133 | 149
+Other expense | 1,316 | 1,243
+Earnings before provision for income taxes | 1,047 | 984
+Provision for income taxes | 242 | 227
+Net earnings | $ | 805 | $ | 757
+Net earnings available to common stockholders | $ | 784 | $ | 736
+Trends disclosed below are compared to the three months ended March 31, 2025, as applicable, except as otherwise noted.
+Net earnings increased to $805 million from $757 million for the three months ended March 31, 2026, primarily reflecting the following key drivers: 
+•
+Increase in net interest income of $171 million, primarily driven by lower interest expense and an increase in interest and fees on loans of 1.9%, partially offset by lower interest income on our liquidity portfolio. 
+•
+Decrease in provision for credit losses of $156 million, primarily driven by lower net charge-offs, partially offset by a $97 million reserve release in the prior year period.
+•
+These drivers were partially offset by higher retailer share arrangements of $175 million and higher other expense of $73 million.
+Loan receivables and Asset Quality 
+•
+Loan receivables were flat at $100.1 billion at March 31, 2026, reflecting higher purchase volume offset by the effects of higher payment rates.
+•
+Over-30 day loan delinquencies as a percentage of period-end loan receivables increased 2 basis points to 4.54% at March 31, 2026 from 4.52% at March 31, 2025. The net charge-off rate decreased 96 basis points to 5.42% for the three months ended March 31, 2026.
+•
+Our allowance coverage ratio (allowance for credit losses as a percentage of period-end loan receivables) decreased to 10.42% at March 31, 2026, as compared to 10.87% at March 31, 2025.
+Funding, Liquidity and Capital  
+•
+At March 31, 2026, deposits represented 83% of our total funding sources. Total deposits increased by 2.2% to $82.9 billion at March 31, 2026, compared to December 31, 2025. 
+•
+During the three months ended March 31, 2026, we repurchased $900 million of our outstanding common stock, and declared and paid cash dividends of $0.30 per share, or $104 million in the aggregate. 
+10
+Table of Contents
+•
+In April 2026, the Company announced that the Board approved a new share repurchase program of up to $6.5 billion of the Company’s common stock, which commences in the second quarter of 2026 and, in a change from our prior share repurchase programs, does not have an expiration date. The new share repurchase program replaces the Company’s prior program, which was scheduled to expire on June 30, 2026. The pace and amount of share repurchases under the program are flexible, and will be executed from time to time subject to various factors, including capital levels, financial performance, market conditions and legal and regulatory requirements, and in accordance with our capital plans. In addition, the Board approved a planned increase to our quarterly dividend to $0.34 per common share commencing in the third quarter of 2026.
+2026 Partner Agreements 
+During the three months ended March 31, 2026, and to date, we continued to expand and diversify our portfolio with the addition or renewal of more than 15 partners, which included the following:
+New partnerships:
+• Indian Motorcycle | Lifestyle
+Program extensions:
+• Harbor Freight | Home & Auto
+• Miracle-Ear | Health & Wellness
+•
+Expanded CareCredit partnerships with pet insurance providers, Figo and Embrace, to enable reimbursements back to CareCredit accounts, making the solution available for more than 1.7 million pets.
+11
+Table of Contents
+Other Financial and Statistical Data
+The following table sets forth certain other financial and statistical data for the periods indicated:    
+At and for the
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Financial Position Data (Average):
+Loan receivables, including held for sale | $ | 100,693 | $ | 101,021
+Total assets | $ | 120,048 | $ | 120,493
+Deposits | $ | 82,118 | $ | 82,788
+Borrowings | $ | 15,538 | $ | 16,041
+Total equity | $ | 16,771 | $ | 16,695
+Selected Performance Metrics:
+Purchase volume (1)(2) | $ | 42,984 | $ | 40,720
+Home & Auto | $ | 9,443 | $ | 9,446
+Digital | $ | 13,499 | $ | 12,479
+Diversified & Value | $ | 14,926 | $ | 13,732
+Health & Wellness | $ | 3,871 | $ | 3,774
+Lifestyle | $ | 1,245 | $ | 1,168
+Corp, Other | $ | — | $ | 121
+Average active accounts (in thousands) (2)(3) | 68,815 | 69,315
+Net interest margin (4) | 15.50 | 14.74
+Net charge-offs | $ | 1,346 | $ | 1,588
+Net charge-offs (annualized) as a % of average loan receivables, including held for sale | 5.42 | 6.38
+Allowance coverage ratio (5) | 10.42 | 10.87
+Return on assets (6) | 2.7 | 2.5
+Return on equity (7) | 19.5 | 18.4
+Equity to assets (8) | 13.97 | 13.86
+Other expense (annualized) as a % of average loan receivables, including held for sale | 5.30 | 4.99
+Efficiency ratio (9) | 35.6 | 33.4
+Effective income tax rate | 23.1 | 23.1
+Selected Period-End Data:
+Loan receivables | $ | 100,085 | $ | 99,608
+Allowance for credit losses | $ | 10,428 | $ | 10,828
+30+ days past due as a % of period-end loan receivables (10) | 4.54 | 4.52
+90+ days past due as a % of period-end loan receivables (10) | 2.28 | 2.29
+Total active accounts (in thousands) (2)(3) | 67,828 | 67,787
+______________________
+(1)
+Purchase volume, or net credit sales, represents the aggregate amount of charges incurred on credit cards or other credit product accounts less returns during the period. 
+(2)
+Includes activity and accounts associated with loan receivables held for sale.
+(3)
+Active accounts represent credit card or installment loan accounts on which there has been a purchase, payment or outstanding balance in the current month.    
+(4)
+Net interest margin represents annualized net interest income divided by average total interest-earning assets.
+(5)
+Allowance coverage ratio represents allowance for credit losses divided by total period-end loan receivables.
+(6)
+Return on assets represents annualized net earnings as a percentage of average total assets.
+(7)
+Return on equity represents annualized net earnings as a percentage of average total equity.
+(8)
+Equity to assets represents average total equity as a percentage of average total assets.
+(9)
+Efficiency ratio represents (i) other expense, divided by (ii) sum of net interest income, plus other income, less retailer share arrangements.
+(10)
+Based on customer statement-end balances extrapolated to the respective period-end date.
+12
+Table of Contents
+Average Balance Sheet
+The following table sets forth information for the periods indicated regarding average balance sheet data, which are used in the discussion of interest income, interest expense and net interest income that follows:
+2026 | 2025
+Three months ended March 31, ($ in millions) | Average Balance | Interest Income / Expense | Average Yield / Rate (1) | Average Balance | Interest Income / Expense | Average Yield / Rate (1)
+Assets
+Interest-earning assets:
+Interest-earning cash and equivalents (2) | $ | 17,992 | $ | 163 | 3.67 | $ | 18,539 | $ | 203 | 4.44
+Securities available for sale | 2,595 | 27 | 4.22 | 3,231 | 35 | 4.39
+Loan receivables, including held for sale (3) :
+Credit cards | 93,290 | 5,152 | 22.40 | 93,241 | 5,055 | 21.99
+Consumer installment loans | 5,465 | 188 | 13.95 | 5,833 | 211 | 14.67
+Commercial credit products | 1,857 | 72 | 15.72 | 1,842 | 45 | 9.91
+Other | 81 | 1 | 5.01 | 105 | 1 | 3.86
+Total loan receivables, including held for sale | 100,693 | 5,413 | 21.80 | 101,021 | 5,312 | 21.33
+Total interest-earning assets | 121,280 | 5,603 | 18.74 | 122,791 | 5,550 | 18.33
+Non-interest-earning assets:
+Cash and due from banks | 976 | 868
+Allowance for credit losses | (10,431) | (10,936)
+Other assets | 8,223 | 7,770
+Total non-interest-earning assets | (1,232) | (2,298)
+Total assets | $ | 120,048 | $ | 120,493
+Liabilities
+Interest-bearing liabilities:
+Interest-bearing deposit accounts | $ | 81,704 | $ | 770 | 3.82 | $ | 82,370 | $ | 882 | 4.34
+Borrowings of consolidated securitization entities | 8,482 | 106 | 5.07 | 8,191 | 104 | 5.15
+Senior and subordinated unsecured notes | 7,056 | 92 | 5.29 | 7,850 | 100 | 5.17
+Total interest-bearing liabilities | 97,242 | 968 | 4.04 | 98,411 | 1,086 | 4.48
+Non-interest-bearing liabilities:
+Non-interest-bearing deposit accounts | 414 | 418
+Other liabilities | 5,621 | 4,969
+Total non-interest-bearing liabilities | 6,035 | 5,387
+Total liabilities | 103,277 | 103,798
+Equity
+Total equity | 16,771 | 16,695
+Total liabilities and equity | $ | 120,048 | $ | 120,493
+Interest rate spread (4) | 14.70 | 13.86
+Net interest income | $ | 4,635 | $ | 4,464
+Net interest margin (5) | 15.50 | 14.74
+________________________________________
+(1)
+Average yields/rates are based on annualized total interest income/expense divided by average balances.
+(2)
+Includes average restricted cash balances of $60 million and $690 million for the three months ended March 31, 2026 and 2025, respectively.
+(3)
+Interest income on loan receivables includes fees on loans, which primarily consist of late fees on our credit products, of $559 million and $588 million for the three months ended March 31, 2026 and 2025, respectively.
+(4)
+Interest rate spread represents the difference between the yield on total interest-earning assets and the rate on total interest-bearing liabilities.
+(5)
+Net interest margin represents annualized net interest income divided by average total interest-earning assets.
+13
+Table of Contents
+For a summary description of the composition of our key line items included in our Statements of Earnings, see 
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+ in our 2025 Form 10-K.
+Interest Income
+Interest income increased by $53 million, or 1.0% for the three months ended March 31, 2026, reflecting an increase of 1.9% in interest and fees on loans, partially offset by lower interest income from our liquidity portfolio. The increase in interest and fees on loans was primarily driven by the impact of our product, pricing and policy changes, partially offset by lower benchmark rates. 
+Average interest-earning assets
+Three months ended March 31, ($ in millions) | 2026 | 2025
+Loan receivables, including held for sale | $ | 100,693 | 83.0 | $ | 101,021 | 82.3
+Liquidity portfolio and other | 20,587 | 17.0 | 21,770 | 17.7
+Total average interest-earning assets | $ | 121,280 | 100.0 | $ | 122,791 | 100.0
+Average loan receivables, including held for sale, were flat compared to the three months ended March 31, 2025, reflecting higher purchase volume offset by the effects of higher payment rates. Purchase volume increased by 5.6% for the three months ended March 31, 2026, primarily reflecting the impacts of partner expansion and higher spend per average active account.  
+Yield on average interest-earning assets
+The yield on average interest-earning assets increased for the three months ended March 31, 2026 primarily due to increases in the yield on average loan receivables and the mix of loan receivables as a percentage of interest-earning assets versus the prior year, partially offset by a lower yield on our liquidity portfolio. The loan receivables yield increased 47 basis points to 21.80% for the three months ended March 31, 2026, primarily driven by the impacts of our product, pricing and policy changes, partially offset by the impact of lower benchmark rates.
+Interest Expense 
+Interest expense decreased by $118 million, or 10.9%, for the three months ended March 31, 2026, primarily due to lower interest-bearing liabilities cost associated with lower benchmark rates. Our cost of funds decreased to 4.04% for the three months ended March 31, 2026, compared to 4.48% for the three months ended March 31, 2025.
+Average interest-bearing liabilities
+Three months ended March 31, ($ in millions) | 2026 | 2025
+Interest-bearing deposit accounts | $ | 81,704 | 84.0 | $ | 82,370 | 83.7
+Borrowings of consolidated securitization entities | 8,482 | 8.7 | 8,191 | 8.3
+Senior and subordinated unsecured notes | 7,056 | 7.3 | 7,850 | 8.0
+Total average interest-bearing liabilities | $ | 97,242 | 100.0 | $ | 98,411 | 100.0
+Net Interest Income
+Net interest income increased by $171 million, or 3.8%, for the three months ended March 31, 2026, resulting from the changes in interest income and interest expense discussed above.
+Retailer Share Arrangements
+Retailer share arrangements increased by $175 million, or 19.6%, for the three months ended March 31, 2026, reflecting program performance which included lower net charge-offs and the impact of our product, pricing and policy changes.
+14
+Table of Contents
+Provision for Credit Losses
+Provision for credit losses decreased by $156 million, or 10.5%, for the three months ended March 31, 2026, primarily driven by lower net charge-offs, partially offset by a reserve release in the prior year period. 
+Net charge-offs for the three months ended March 31, 2026 decreased by $242 million. The net charge-off rate for the three months ended March 31, 2026 decreased by 96 basis points to 5.42%, as compared to the prior year period, and we expect our net charge-off rate for the year ended December 31, 2026 will be below our long-term target range of 5.5% to 6.0%.
+The reserve release for the three months ended March 31, 2026 was $11 million, as compared to a reserve release of $97 million in the prior year period. 
+Other Income
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Interchange revenue | $ | 264 | $ | 238
+Protection product revenue | 161 | 147
+Loyalty programs | (361) | (311)
+Other | 69 | 75
+Total other income | $ | 133 | $ | 149
+Other income decreased by $16 million to $133 million, for the three months ended March 31, 2026. 
+The decrease in the three months ended March 31, 2026 was primarily driven by higher loyalty costs, partially offset by higher interchange revenue and protection product revenue.   
+Other Expense
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Employee costs | $ | 515 | $ | 506
+Professional fees | 209 | 217
+Marketing and business development | 114 | 116
+Information processing | 262 | 219
+Other | 216 | 185
+Total other expense | $ | 1,316 | $ | 1,243
+Other expense increased by $73 million, or 5.9%, for the three months ended March 31, 2026.
+The increase in the three months ended March 31, 2026 was primarily driven by higher information processing costs and higher other expense. The increase in information processing costs was primarily related to technology investments, as well as higher association fees related to the purchase volume growth on our co-branded cards. The increase in other expense was primarily driven by higher operational losses. 
+Provision for Income Taxes
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Effective tax rate | 23.1 | 23.1
+Provision for income taxes | $ | 242 | $ | 227
+The effective tax rate for the three months ended March 31, 2026 was flat compared to the prior year. The effective tax rate differs from the applicable U.S. federal statutory tax rate primarily due to state income taxes.
+15
+Table of Contents
+Platform Analysis
+As discussed above under “—
+Our Sales Platforms
+,” we offer our credit products primarily through five sales platforms (Home & Auto, Digital, Diversified & Value, Health & Wellness and Lifestyle). The following is a discussion of certain supplemental information for the three months ended March 31, 2026, for each of our five sales platforms and Corp, Other.
+In 2025, we sold $0.2 billion of loan receivables associated with a Home & Auto partner program agreement. All related prior-period reported metrics for our Home & Auto sales platform and Corp, Other have been recast to reflect activity related to this portfolio within Corp, Other below.
+Home & Auto
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Purchase volume | $ | 9,443 | $ | 9,446
+Period-end loan receivables | $ | 29,136 | $ | 30,254
+Average loan receivables, including held for sale | $ | 29,367 | $ | 30,810
+Average active accounts (in thousands) | 16,847 | 17,894
+Interest and fees on loans | $ | 1,379 | $ | 1,402
+Other income | $ | 55 | $ | 56
+Home & Auto interest and fees on loans decreased by $23 million, or 1.6%, for the three months ended March 31, 2026, primarily driven by lower average loan receivables, partially offset by higher loan receivables yield. The decrease in average loan receivables was primarily driven by higher payment rates. The increase in loan receivables yield reflects the impact of product, pricing and policy changes, partially offset by lower late fee incidence. 
+Purchase volume was flat for the three months ended March 31, 2026, reflecting higher spend per average active account and partner expansion in Furniture and Electronics, offset by selective spend in Home Improvement and lower average active accounts. Average active accounts decreased by 5.9% for the three months ended March 31, 2026.
+Other income decreased by $1 million, or 1.8%, for the three months ended March 31, 2026, primarily due to higher loyalty costs. 
+Digital
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Purchase volume | $ | 13,499 | $ | 12,479
+Period-end loan receivables | $ | 28,733 | $ | 27,765
+Average loan receivables, including held for sale | $ | 29,024 | $ | 28,216
+Average active accounts (in thousands) | 21,268 | 20,711
+Interest and fees on loans | $ | 1,632 | $ | 1,544
+Other income | $ | 9 | $ | 9
+Digital interest and fees on loans increased by $88 million, or 5.7%, for the three months ended March 31, 2026, primarily driven by higher loan receivables yield, reflecting the impacts of product, pricing and policy changes, as well as higher average loan receivables, partially offset by lower benchmark rates. 
+Purchase volume increased by 8.2% for the three months ended March 31, 2026, primarily driven by higher spend per average active account and customer response to enhanced product offerings and refreshed value propositions. Average active accounts increased by 2.7% for the three months ended March 31, 2026.
+16
+Table of Contents
+Diversified & Value
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Purchase volume | $ | 14,926 | $ | 13,732
+Period-end loan receivables | $ | 20,269 | $ | 19,436
+Average loan receivables, including held for sale | $ | 20,229 | $ | 19,670
+Average active accounts (in thousands) | 20,416 | 20,114
+Interest and fees on loans | $ | 1,195 | $ | 1,178
+Other income | $ | (18) | $ | —
+Diversified & Value interest and fees on loans increased by $17 million, or 1.4%, for the three months ended March 31, 2026, primarily driven by higher average loan receivables reflecting the impact of partner expansion, partially offset by a decrease in loan receivables yield. The decrease in loan receivables yield primarily reflects lower benchmark rates, partially offset by the impacts of product, pricing and policy changes. 
+Purchase volume increased 8.7%, for the three months ended March 31, 2026, primarily reflecting the impact of partner expansion, in addition to higher spend per average active account. Average active accounts increased by 1.5% for the three months ended March 31, 2026.
+Other income decreased by $18 million, for the three months ended March 31, 2026. The decrease in the three months ended March 31, 2026 was primarily due to higher loyalty costs, partially offset by higher interchange revenue.
+Health & Wellness
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Purchase volume | $ | 3,871 | $ | 3,774
+Period-end loan receivables | $ | 15,309 | $ | 15,193
+Average loan receivables, including held for sale | $ | 15,373 | $ | 15,280
+Average active accounts (in thousands) | 7,680 | 7,776
+Interest and fees on loans | $ | 948 | $ | 914
+Other income | $ | 80 | $ | 75
+Health & Wellness interest and fees on loans increased by $34 million, or 3.7%, for the three months ended March 31, 2026. The increase in the three months ended March 31, 2026 was primarily driven by an increase in loan receivables yield, reflecting the impact of product, pricing and policy changes.  
+Purchase volume increased 2.6% for the three months ended March 31, 2026, reflecting growth in Pet and Audiology, partially offset by lower spend in Cosmetic and Dental. In addition, higher spend per average active account exceeded the impact of lower average active accounts. Average active accounts decreased 1.2% for the three months ended March 31, 2026.
+Other income increased by $5 million, or 6.7%, for the three months ended March 31, 2026. The increase in the three months ended March 31, 2026 was primarily due to higher protection product revenue and higher interchange revenue, partially offset by higher loyalty costs.  
+17
+Table of Contents
+Lifestyle
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Purchase volume | $ | 1,245 | $ | 1,168
+Period-end loan receivables | $ | 6,548 | $ | 6,636
+Average loan receivables, including held for sale | $ | 6,607 | $ | 6,716
+Average active accounts (in thousands) | 2,584 | 2,651
+Interest and fees on loans | $ | 258 | $ | 261
+Other income | $ | 11 | $ | 10
+Lifestyle interest and fees on loans decreased by $3 million, or 1.1%, for the three months ended March 31, 2026. The decrease for the three months ended March 31, 2026 was primarily driven by lower average loan receivables and lower benchmark rates. 
+Purchase volume increased by 6.6% for the three months ended March 31, 2026, primarily driven by Other Apparel and Goods and Luxury, partially offset by lower average active accounts.  Average active accounts decreased 2.5% for the three months ended March 31, 2026.
+Corp, Other
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Purchase volume | $ | — | $ | 121
+Period-end loan receivables | $ | 90 | $ | 324
+Average loan receivables, including held for sale | $ | 93 | $ | 329
+Average active accounts (in thousands) | 20 | 169
+Interest and fees on loans | $ | 1 | $ | 13
+Other income | $ | (4) | $ | (1)
+18
+Table of Contents
+Loan Receivables
+____________________________________________________________________________________________
+Loan receivables are our largest category of assets and represent our primary source of revenue. The following discussion provides supplemental information regarding our loan receivables portfolio. See Note 2. 
+Basis of Presentation and Summary of Significant Accounting Policie
+s and Note 4. 
+Loan Receivables and Allowance for Credit Losses
+ to our condensed consolidated financial statements for additional information related to our loan receivables.
+The following table sets forth the composition of our loan receivables portfolio by product type at the dates indicated:
+($ in millions) | At March 31, 2026 | At December 31, 2025
+Loan receivables
+Credit cards | $ | 92,764 | 92.7 | $ | 96,346 | 92.8
+Consumer installment loans | 5,357 | 5.3 | 5,548 | 5.3
+Commercial credit products | 1,886 | 1.9 | 1,833 | 1.8
+Other | 78 | 0.1 | 81 | 0.1
+Total loan receivables | $ | 100,085 | 100.0 | $ | 103,808 | 100.0
+Loan receivables decreased 3.6% to $100.1 billion at March 31, 2026, compared to $103.8 billion at December 31, 2025, primarily driven by the seasonality of our business.
+Loan receivables were flat compared to $99.6 billion at March 31, 2025 reflecting higher purchase volume offset by the effects of higher payment rates.
+Our loan receivables portfolio had the following geographic concentration at March 31, 2026:
+($ in millions) | Loan Receivables Outstanding | % of Total Loan Receivables Outstanding
+State
+Texas | $ | 11,126 | 11.1
+California | $ | 10,233 | 10.2
+Florida | $ | 9,479 | 9.5
+New York | $ | 4,652 | 4.6
+North Carolina | $ | 4,229 | 4.2
+Delinquencies
+Over-30 day loan delinquencies as a percentage of period-end loan receivables was 4.54% at March 31, 2026, remaining generally in line with prior periods, increasing by two basis points from 4.52% at March 31, 2025, and by five basis points from 4.49% at December 31, 2025. 
+Net Charge-Offs
+Net charge-offs consist of the unpaid principal balance of loans held for investment that we determine are uncollectible, net of recovered amounts. We exclude accrued and unpaid finance charges and fees and third-party fraud losses from charge-offs. Charged-off and recovered finance charges and fees are included in Interest and fees on loans while third-party fraud losses are included in Other expense. Charge-offs are recorded as a reduction to the Allowance for credit losses and subsequent recoveries of previously charged-off amounts are credited to the Allowance for credit losses. Costs incurred to recover charged-off loans are recorded as collection expense and included in Other expense in our Condensed Consolidated Statements of Earnings.
+19
+Table of Contents
+The table below sets forth the net charge-offs and ratio of annualized net charge-offs to average loan receivables, including held for sale, (“net charge-off rate”) for the periods indicated:
+Three months ended March 31,
+2026 | 2025
+($ in millions) | Amount | Rate | Amount | Rate
+Credit cards | $ | 1,233 | 5.36 | $ | 1,462 | 6.36
+Consumer installment loans | 83 | 6.16 | 93 | 6.47
+Commercial credit products | 30 | 6.55 | 33 | 7.26
+Other | — | — | — | —
+Total net charge-offs | $ | 1,346 | 5.42 | $ | 1,588 | 6.38
+Allowance for Credit Losses
+The allowance for credit losses totaled $10.4 billion at March 31, 2026, compared to $10.4 billion at December 31, 2025, and $10.8 billion at March 31, 2025, and reflects our estimate of expected credit losses for the life of the loan receivables on our Condensed Consolidated Statements of Financial Position. 
+The allowance for credit losses remained flat compared to December 31, 2025, reflecting asset quality trends in line with the prior quarter. 
+The decrease in allowance for credit losses compared to March 31, 2025 primarily reflects the impact of prior credit actions and elevated customer payment rates, as well as expectations of the macroeconomic environment. Our allowance for credit losses as a percentage of total period-end loan receivables increased to 10.42% at March 31, 2026, from 10.06% at December 31, 2025 and decreased from 10.87% at March 31, 2025. See Note 4. 
+Loan Receivables and Allowance for Credit Losses
+ to our condensed consolidated financial statements for additional information.
+20
+Table of Contents
+Funding, Liquidity and Capital Resources
+____________________________________________________________________________________________
+We maintain a strong focus on liquidity and capital. Our funding, liquidity and capital policies are designed to ensure that our business has the liquidity and capital resources to support our daily operations, our business growth, our credit ratings and our regulatory and policy requirements, in a cost effective and prudent manner through expected and unexpected market environments.
+Funding Sources
+Our primary funding sources include cash from operations, deposits (direct and brokered deposits), securitized financings and senior and subordinated unsecured notes.
+The following table summarizes information concerning our funding sources during the periods indicated:
+2026 | 2025
+Three months ended March 31, ($ in millions) | Average Balance | Average Rate | Average Balance | Average Rate
+Deposits (1) | $ | 81,704 | 84.0 | 3.8 | $ | 82,370 | 83.7 | 4.3
+Securitized financings | 8,482 | 8.7 | 5.1 | 8,191 | 8.3 | 5.1
+Senior and subordinated unsecured notes | 7,056 | 7.3 | 5.3 | 7,850 | 8.0 | 5.2
+Total | $ | 97,242 | 100.0 | 4.0 | $ | 98,411 | 100.0 | 4.5
+______________________
+(1)
+Excludes $414 million and $418 million average balance of non-interest-bearing deposits for the three months ended March 31, 2026 and 2025, respectively. Non-interest-bearing deposits comprise less than 10% of total deposits for the three months ended March 31, 2026 and 2025.
+Deposits
+We obtain deposits directly from retail customers, affinity relationships and commercial customers (“direct deposits”) and through third-party firms that offer our deposits to their customers (“brokered deposits”). At March 31, 2026, we had $77.2 billion in direct deposits and $5.7 billion in brokered deposits consisting of certificates of deposit and network deposit sweeps procured through a program arranger that channels account deposits to us. A key part of our liquidity plan and funding strategy is to continue to utilize our direct deposit base as a source of stable and diversified low-cost funding.
+Our direct deposits are primarily from retail customers and include a range of FDIC-insured deposit products, including certificates of deposit, IRAs, money market accounts, savings accounts and affinity deposits. 
+Brokered deposits are primarily from retail customers of large brokerage firms. We have relationships with multiple brokers that offer our deposits through their networks. Our brokered deposits primarily consist of certificates of deposit that bear interest at a fixed rate. These deposits generally are not subject to early withdrawal.
+Our ability to attract deposits is sensitive to, among other things, the interest rates we pay, and therefore, we bear funding risk if we fail to pay higher rates, or interest rate risk if we are required to pay higher rates, to retain existing deposits or attract new deposits. To mitigate these risks, our funding strategy includes a range of deposit products, and we seek to maintain access to multiple other funding sources, such as securitized financings (including our undrawn committed and uncommitted capacity) and unsecured debt.
+21
+Table of Contents
+The following table summarizes certain information regarding our interest-bearing deposits by type (all of which constitute U.S. deposits) for the periods indicated:
+Three months ended March 31, ($ in millions) | 2026 | 2025
+Average Balance | Average Rate | Average Balance | Average Rate
+Direct deposits:
+Certificates of deposit (including IRA certificates of deposit) | $ | 42,924 | 52.5 | 4.0 | $ | 40,839 | 49.6 | 4.6
+Savings, money market, and demand accounts | 32,893 | 40.3 | 3.5 | 31,924 | 38.7 | 4.0
+Brokered deposits | 5,887 | 7.2 | 4.1 | 9,607 | 11.7 | 4.4
+Total interest-bearing deposits | $ | 81,704 | 100.0 | 3.8 | $ | 82,370 | 100.0 | 4.3
+Our deposit liabilities provide funding with maturities ranging from one day to ten years. At March 31, 2026, the weighted average maturity of our interest-bearing time deposits was approximately one year. See Note 7. 
+Deposits
+ to our condensed consolidated financial statements for more information on the maturities of our time deposits.
+The standard FDIC deposit insurance amount is $250,000 per depositor, for each account ownership category. Our estimate of the uninsured portion of total deposit balances, excluding any intercompany balance, at March 31, 2026 was $7.1 billion.
+The following table summarizes the portion of uninsured deposits that are certificates of deposit by contractual maturity at March 31, 2026:
+($ in millions) | 3 Months or Less | Over 3 Months but within 6 Months | Over 6 Months but within 12 Months | Over 12 Months | Total
+Certificates of deposit (including IRA certificates of deposit) | $ | 977 | $ | 1,021 | $ | 1,195 | $ | 1,227 | $ | 4,420
+Securitized Financings
+We access the asset-backed securitization market using the Synchrony Card Issuance Trust (“SYNIT”) through which we may issue asset-backed securities through both public transactions and private transactions funded by financial institutions and commercial paper conduits. In addition, we issue asset-backed securities in private transactions through the Synchrony Credit Card Master Note Trust (“SYNCT”) and the Synchrony Sales Finance Master Trust (“SFT”). 
+The following table summarizes expected contractual maturities of the investors’ interests in securitized financings, excluding debt premiums, discounts and issuance costs at March 31, 2026:
+($ in millions) | Less Than One Year | One Year Through Three Years | Four Years Through Five Years | After Five Years | Total
+Scheduled maturities of borrowings—owed to securitization investors:
+SYNCT | $ | 1,050 | $ | 600 | $ | — | $ | — | $ | 1,650
+SFT | — | 1,275 | — | — | 1,275
+SYNIT (1) | 2,500 | 3,500 | — | — | 6,000
+Total borrowings—owed to securitization investors | $ | 3,550 | $ | 5,375 | $ | — | $ | — | $ | 8,925
+______________________
+(1)
+Excludes any subordinated classes of SYNIT notes that we owned at March 31, 2026.
+22
+Table of Contents
+We retain exposure to the performance of trust assets through: (i) in the case of SYNCT, SFT and SYNIT, subordinated retained interests in the loan receivables transferred to the trust in excess of the principal amount of the notes for a given series that provide credit enhancement for a particular series, as well as a pari passu seller’s interest in each trust and (ii) in the case of SYNIT, any subordinated classes of notes that we own.
+All of our securitized financings include early repayment triggers, referred to as early amortization events. The occurrence of an early amortization event would limit or terminate our ability to issue future series out of the trust in which the early amortization event occurred. No early amortization event has occurred with respect to any of the securitized financings in SYNCT, SFT or SYNIT. For more information related to early amortization events with respect to our securitized financings, see "
+Funding, Liquidity and Capital Resources—Securitized Financings
+" in our 2025 Form 10-K.
+The following table summarizes for each of our trusts the three-month rolling average excess spread at March 31, 2026:
+Note Principal Balance ($ in millions) | # of Series Outstanding | Three-Month Rolling Average Excess Spread (1)
+SYNCT | $ | 1,650 | 3 | ~ 16.4% to 16.9%
+SFT | $ | 1,275 | 5 | 14.9
+SYNIT | $ | 6,000 | 1 | 17.2
+______________________
+(1)
+Represents the excess spread (generally calculated as interest income collected from the applicable pool of loan receivables less applicable net charge-offs, interest expense and servicing costs, divided by the aggregate principal amount of loan receivables in the applicable pool) for SFT or, in the case of SYNCT, a range of the excess spreads relating to the particular series issued within such trust or, in the case of SYNIT, the excess spread relating to the one outstanding series issued within such trust, in all cases omitting any series that have not been outstanding for at least three full monthly periods and calculated in accordance with the applicable trust or series documentation, for the three securitization monthly periods ended March 31, 2026.
+23
+Table of Contents
+Senior and Subordinated Unsecured Notes
+The following table provides a summary of our outstanding senior and subordinated unsecured notes at March 31, 2026, which includes $750 million of senior unsecured notes issued by Synchrony Financial in February 2026:
+Issuance Date | Interest Rate (1) | Interest Rate Reset Date | Floating Rate Spread (2) | Maturity | Principal Amount Outstanding (3)
+($ in millions)
+Fixed rate senior unsecured notes:
+Synchrony Financial
+August 2016 | 3.700% | — | — | August 2026 | 500
+December 2017 | 3.950% | — | — | December 2027 | 1,000
+March 2019 | 5.150% | — | — | March 2029 | 650
+October 2021 | 2.875% | — | — | October 2031 | 750
+Synchrony Bank
+August 2022 | 5.625% | — | — | August 2027 | 600
+Fixed-to-floating rate senior unsecured notes:
+Synchrony Financial
+August 2024 | 5.935% | August 2, 2029 | 213 bps | August 2030 | 750
+March 2025 | 5.450% | March 6, 2030 | 168 bps | March 2031 | 800
+July 2025 | 5.019% | July 29, 2028 | 139.5 bps | July 2029 | 500
+July 2025 | 6.000% | July 29, 2035 | 207 bps | July 2036 | 500
+February 2026 | 4.947% | February 25, 2031 | 153 bps | February 2032 | 750
+Fixed rate subordinated unsecured notes:
+Synchrony Financial
+February 2023 | 7.250% | — | — | February 2033 | 750
+Total senior and subordinated unsecured notes | $ | 7,550
+______________________
+(1)
+Weighted average interest rate of all senior and subordinated unsecured notes at March 31, 2026 was 5.05%.
+(2)
+Floating rate applicable at interest reset date through maturity, based on compounded Secured Overnight Financing Rate plus floating rate spread noted above.
+(3)
+The amounts shown exclude unamortized debt discounts, premiums and issuance costs.
+Short-Term Borrowings
+Except as described above, there were no material short-term borrowings for the periods presented.
+Covenants
+The indentures pursuant to which our senior and subordinated unsecured notes have been issued include various covenants. If we do not satisfy any of these covenants, the maturity of amounts outstanding thereunder may be accelerated and become payable. We were in compliance with all of these covenants at March 31, 2026.
+At March 31, 2026, we were not in default under any of our credit facilities.
+24
+Table of Contents
+Credit Ratings
+Our borrowing costs and capacity in certain funding markets, including securitizations and senior and subordinated debt, may be affected by the credit ratings of the Company, the Bank and the ratings of our asset-backed securities.
+The table below reflects our current credit ratings and outlooks:
+S&P | Fitch Ratings
+Synchrony Financial
+Senior unsecured debt | BBB- | BBB
+Subordinated unsecured debt | BB+ | BBB-
+Preferred stock | BB- | BB-
+Outlook for Synchrony Financial | Stable | Stable
+Synchrony Bank
+Senior unsecured debt | BBB | BBB
+Outlook for Synchrony Bank | Stable | Stable
+In addition, certain of the asset-backed securities issued by SYNIT are rated by Fitch, S&P and/or Moody’s. A credit rating is not a recommendation to buy, sell or hold securities, may be subject to revision or withdrawal at any time by the assigning rating organization, and each rating should be evaluated independently of any other rating. Downgrades in these credit ratings could materially increase the cost of our funding from, and restrict our access to, the capital markets.
+Liquidity
+____________________________________________________________________________________________
+We seek to ensure that we have adequate liquidity to sustain business operations, fund asset growth, satisfy debt obligations and to meet regulatory expectations under normal and stress conditions.
+We maintain policies outlining the overall framework and general principles for managing liquidity risk across our business, which is the responsibility of our Asset and Liability Management Committee, a management committee under the oversight of the Risk Committee of our Board of Directors. We employ a variety of metrics to monitor and manage liquidity. We perform regular liquidity stress testing and contingency planning as part of our liquidity management process. We evaluate a range of stress scenarios including Company specific and systemic events that could impact funding sources and our ability to meet liquidity needs.
+We maintain a liquidity portfolio, which at March 31, 2026 had $22.8 billion of liquid assets, primarily consisting of cash and equivalents, less cash in transit which is not considered to be liquid, compared to $16.6 billion of liquid assets at December 31, 2025. The increase in liquid assets primarily due to deposit growth, the issuance of both senior unsecured debt and securitized debt, as well as the seasonality of our business. We believe our liquidity position at March 31, 2026 remains strong as we continue to operate in a period of uncertain economic conditions and we will continue to closely monitor our liquidity as economic conditions change.
+As a general matter, investments included in our liquidity portfolio are expected to be highly liquid, giving us the ability to readily convert them to cash. The level and composition of our liquidity portfolio may fluctuate based upon the level of expected maturities of our funding sources as well as operational requirements and market conditions.
+We also have access to several additional sources of liquidity beyond our liquidity portfolio. At March 31, 2026, we had an aggregate of $10.4 billion of available borrowing capacity through the Federal Reserve’s discount window. In addition, we had $2.6 billion of undrawn capacity on our securitized financings, subject to customary borrowing conditions, from private lenders under our securitization programs, of which $2.1 billion was committed and $450 million was uncommitted. We also have other unencumbered assets in the Bank available to be used to generate additional liquidity through secured borrowings or asset sales or to be pledged to the Federal Reserve Board for credit at the discount window.
+25
+Table of Contents
+We rely significantly on dividends and other distributions and payments from the Bank for liquidity; however, bank regulations, contractual restrictions and other factors limit the amount of dividends and other distributions and payments that the Bank may pay to us. For a discussion of regulatory restrictions related to the Bank’s ability to pay dividends, see “
+Regulation—Risk Factors Relating to Regulation—We are subject to restrictions that limit our ability to pay dividends and repurchase our common stock; the Bank is subject to restrictions that limit its ability to pay dividends to us, which could limit our ability to pay dividends, repurchase our common stock or make payments on our indebtedness,
+” “
+Regulation—Regulation Relating to Our Business—Savings Association Regulation—Dividends and Stock Repurchases
+” and 
+—Liquidity," 
+and
+ "Regulation—Savings and Loan Holding Company Regulation—Liquidity" 
+in our 2025 Form 10-K. 
+Capital
+____________________________________________________________________________________________
+Our primary sources of capital have been earnings generated by our business and existing equity capital. We seek to manage capital to a level and composition sufficient to support the risks of our business, meet regulatory requirements, adhere to rating agency targets and support future business growth. The level, composition and utilization of capital are influenced by changes in the economic environment, strategic initiatives and legislative and regulatory developments. Within these constraints, we are focused on deploying capital in a manner that will provide attractive returns to our stockholders. 
+We are subject to the Federal Reserve Board's formal capital plan submission requirements and submitted our 2026 capital plan to the Federal Reserve Board. We are also subject to supervisory stress tests on a biennial basis, in even calendar years, and the 2026 supervisory stress test is the first stress test in which we are required to participate. In February 2026, the Federal Reserve Board voted to maintain banking organizations’ current stress capital buffer requirements until 2027 at the earliest. Because Synchrony is only subject to supervisory stress tests on a biennial basis, we remain subject to our initial stress capital buffer of 2.5% and will receive a new stress capital buffer in 2028. For more information, see “
+Regulation—Savings and Loan Holding Company Regulation
+” in our 2025 Form 10-K.
+Dividend and Share Repurchases
+Common Stock Cash Dividends Declared | Month of Payment | Amount per Common Share | Amount
+Three months ended ($ in millions, except per share data)
+March 31, 2026 | February 2026 | $ | 0.30 | $ | 104
+Total dividends declared | $ | 0.30 | $ | 104
+Series A | Series B
+Preferred Stock Cash Dividends Declared | Month of Payment | Amount per Preferred Share | Amount | Amount per Preferred Share | Amount
+Three months ended ($ in millions, except per share data)
+March 31, 2026 | February 2026 | $ | 14.06 | $ | 10 | $ | 20.63 | $ | 11
+Total dividends declared | $ | 14.06 | $ | 10 | $ | 20.63 | $ | 11
+The declaration and payment of future dividends to holders of our common and preferred stock will be at the discretion of the Board and will depend on many factors. In April 2026, the Board approved a planned increase to our quarterly dividend to $0.34 per common share commencing in the third quarter of 2026. In addition, subject to approval from the Board, we have the ability to issue further series of preferred stock, up to a maximum of 300 million shares authorized for issuance.
+26
+Table of Contents
+For a discussion of regulatory and other restrictions on our ability to pay dividends and repurchase stock, see “
+Regulation—Risk Factors Relating to Regulation—We are subject to restrictions that limit our ability to pay dividends and repurchase our common stock; the Bank is subject to restrictions that limit its ability to pay dividends to us, which could limit our ability to pay dividends, repurchase our common stock or make payments on our indebtedness
+” in our 2025 Form 10-K. 
+Common Shares Repurchased Under Publicly Announced Programs | Total Number of Shares Purchased | Dollar Value of Shares Purchased
+Three months ended ($ and shares in millions)
+March 31, 2026 | 12.5 | $ | 900
+Total | 12.5 | $ | 900
+During the three months ended March 31, 2026, we repurchased $900 million of common stock as part of our share repurchase program. In April 2026, the Company announced that the Board approved a new share repurchase program of up to $6.5 billion of the Company’s common stock, which commences in the second quarter of 2026 and, in a change from our prior share repurchase programs, does not have an expiration date. The new share repurchase program replaces the Company’s prior program, which was scheduled to expire on June 30, 2026. The pace and amount of share repurchases under the program are flexible, and will be executed from time to time subject to various factors, including capital levels, financial performance, market conditions and legal and regulatory requirements, and in accordance with our capital plans. 
+The Company's share repurchase program may be executed through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans, and may be modified, suspended or terminated at any time. 
+Regulatory Capital Requirements - Synchrony Financial
+For Synchrony Financial to be a well-capitalized savings and loan holding company, Synchrony Bank must be well-capitalized and Synchrony Financial must not be subject to any written agreement, order, capital directive, or prompt corrective action directive issued by the Federal Reserve Board to meet and maintain a specific capital level for any capital measure. At March 31, 2026, Synchrony Financial met all minimum capital ratio requirements and the requirements to be deemed well-capitalized.
+The following table sets forth the composition of our capital ratios for the Company calculated under the Basel III Standardized Approach rules at March 31, 2026 and December 31, 2025, respectively:
+Basel III
+At March 31, 2026 | At December 31, 2025
+($ in millions) | Amount | Ratio (1) | Amount | Ratio (1)
+Total risk-based capital | $ | 16,339 | 16.0 | $ | 16,632 | 15.8
+Tier 1 risk-based capital | $ | 14,207 | 13.9 | $ | 14,464 | 13.8
+Tier 1 leverage | $ | 14,207 | 12.1 | $ | 14,464 | 12.5
+Common equity Tier 1 capital | $ | 12,985 | 12.7 | $ | 13,242 | 12.6
+Risk-weighted assets | $ | 102,095 | $ | 105,029
+______________________
+(1)
+Tier 1 leverage ratio represents total Tier 1 capital as a percentage of total average assets, after certain adjustments. All other ratios presented above represent the applicable capital measure as a percentage of risk-weighted assets. 
+The increase in our common equity Tier 1 capital ratio compared to December 31, 2025 was primarily due to a reduction in risk-weighted assets in the three months ended March 31, 2026.
+27
+Table of Contents
+Regulatory Capital Requirements - Synchrony Bank
+At March 31, 2026 and December 31, 2025, the Bank met all applicable requirements to be deemed well-capitalized pursuant to the Office of the Comptroller of the Currency of the U.S. Treasury (the “OCC”) regulations and for purposes of the Federal Deposit Insurance Act. The following table sets forth the composition of the Bank’s capital ratios calculated under the Basel III Standardized Approach rules at March 31, 2026 and December 31, 2025:
+At March 31, 2026 | At December 31, 2025
+($ in millions) | Amount | Ratio | Amount | Ratio
+Total risk-based capital | $ | 15,943 | 16.4 | $ | 15,844 | 15.8
+Tier 1 risk-based capital | $ | 13,863 | 14.2 | $ | 13,731 | 13.7
+Tier 1 leverage | $ | 13,863 | 12.3 | $ | 13,731 | 12.4
+Common equity Tier 1 capital | $ | 13,863 | 14.2 | $ | 13,731 | 13.7
+For additional information on the minimum capital requirements for both Synchrony Financial and the Bank, See “
+Regulation—Regulation Relating to Our Business—Capital" 
+for both
+ Savings and Loan Holding Company Regulation 
+and
+ Savings Association Regulation, 
+as applicable in our 2025 Form 10-K. Failure to meet minimum capital requirements can result in the initiation of certain mandatory and possibly additional discretionary actions by regulators that, if undertaken, could limit our business activities and have a material adverse effect on our business, results of operations and financial condition. See “
+Regulation—Risk Factors Relating to Regulation—Failure by Synchrony and the Bank to meet applicable capital adequacy and liquidity requirements could have a material adverse effect on us
+” in our 2025 Form 10-K.
+Off-Balance Sheet Arrangements and Unfunded Lending Commitments
+____________________________________________________________________________________________
+We do not have any material off-balance sheet arrangements, including guarantees of third-party obligations. Guarantees are contracts or indemnification agreements that contingently require us to make a guaranteed payment or perform an obligation to a third-party based on certain trigger events. At March 31, 2026, we had not recorded any contingent liabilities in our Condensed Consolidated Statements of Financial Position related to any guarantees. See Note 5. 
+Variable Interest Entities
+ to our condensed consolidated financial statements for more information on our investment commitments for unconsolidated variable interest entities.
+We extend credit, primarily arising from agreements with customers for unused lines of credit on our credit cards, in the ordinary course of business. Each unused credit card line is unconditionally cancellable by us. See Note 4.  
+Loan Receivables and Allowance for Credit Losses
+ to our condensed consolidated financial statements for more information on our unfunded lending commitments.
+Critical Accounting Estimates
+____________________________________________________________________________________________
+In preparing our condensed consolidated financial statements, we have identified certain accounting estimates and assumptions that we consider to be the most critical to an understanding of our financial statements because they involve significant judgments and uncertainties. The critical accounting estimates we have identified relate to allowance for credit losses and fair value measurements. These estimates reflect our best judgment about current, and for some estimates future, economic and market conditions and their effects based on information available as of the date of these financial statements. If these conditions change from those expected, it is reasonably possible that these judgments and estimates could change, which may result in incremental losses on loan receivables, or material changes to our Condensed Consolidated Statements of Financial Position, among other effects. See “
+Management's Discussion and Analysis—Critical Accounting Estimates
+” in our 2025 Form 10-K, for a detailed discussion of these critical accounting estimates.
+28
+Table of Contents
+New Accounting Standards
+____________________________________________________________________________________________
+See Note 2. 
+Basis of Presentation and Summary of Significant Accounting Policies - New Accounting Standards
+, to our condensed consolidated financial statements for additional information related to recent accounting pronouncements.
+Regulation and Supervision
+____________________________________________________________________________________________
+Our business, including our relationships with our customers, is subject to regulation, supervision and examination under U.S. federal, state and foreign laws and regulations. These laws and regulations cover all aspects of our business, including lending and collection practices, treatment of our customers, safeguarding deposits, customer privacy and information security, capital structure, liquidity, dividends and other capital distributions, transactions with affiliates, and conduct and qualifications of personnel. Such laws and regulations directly and indirectly affect key drivers of our profitability, including, for example, capital and liquidity, product offerings, risk management, and costs of compliance.
+As a savings and loan holding company and a financial holding company, Synchrony is subject to regulation, supervision and examination by the Federal Reserve Board. As a large provider of consumer financial services, we are also subject to regulation, supervision and examination by the CFPB. 
+The Bank is a federally chartered savings association. As such, the Bank is subject to regulation, supervision and examination by the OCC, which is its primary regulator, and by the CFPB. In addition, the Bank, as an insured depository institution, is supervised by the FDIC.
+On March 19, 2026, the federal banking agencies issued several rulemaking proposals to revise the U.S. regulatory capital framework. If finalized as proposed, the new rule would revise the standardized approach to calculating risk-weighted assets, including a 10% reduction in risk-weighting of retail exposures, and would require Category III and Category IV banking organizations, including Synchrony, to include most elements of accumulated other comprehensive income (“AOCI”) in their common equity Tier 1 capital, thereby requiring all net unrealized gains and losses on holdings of available-for-sale debt securities from changes in fair value to flow through to regulatory capital, the effects of which would be phased in over a five-year transitional period. We are evaluating the potential impacts of the proposals on the Company.
+See “
+Regulation—Regulation Relating to Our Business
+” in our 2025 Form 10-K for additional information on regulations that apply to us, and “
+—Capital
+”
+above, for discussion of the impact of regulations and supervision on our capital and liquidity, including our ability to pay dividends and repurchase stock. 
+29
+Table of Contents
+INDEX TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+____________________________________________________________________________________________
+Page
+CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+Condensed Consolidated Statements of Earnings | 31
+Condensed Consolidated Statements of Comprehensive Income | 32
+Condensed Consolidated Statements of Financial Position | 33
+Condensed Consolidated Statements of Changes in Equity | 34
+Condensed Consolidated Statements of Cash Flows | 35
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+Note 1.  Business Description | 36
+Note 2.  Basis of Presentation and Summary of Significant Accounting Policies | 36
+Note 3.  Debt Securities | 38
+Note 4.  Loan Receivables and Allowance for Credit Losses | 39
+Note 5.  Variable Interest Entities | 45
+Note 6.  Intangible Assets | 46
+Note 7.  Deposits | 47
+Note 8.  Borrowings | 48
+Note 9.  Fair Value Measurements | 49
+Note 10.  Regulatory and Capital Adequacy | 51
+Note 11.  Earnings Per Share | 53
+Note 12.  Income Taxes | 53
+Note 13.  Segment Reporting | 54
+Note 14.  Legal Proceedings and Regulatory Matters | 55
+30
+Table of Contents
+ITEM 1. FINANCIAL STATEMENTS
+Synchrony Financial and subsidiaries
+Condensed Consolidated Statements of Earnings (Unaudited)
+____________________________________________________________________________________________
+Three months ended March 31,
+($ in millions, except per share data) | 2026 | 2025
+Interest income:
+Interest and fees on loans (Note 4) | $ | 5,413 | $ | 5,312
+Interest on cash and debt securities | 190 | 238
+Total interest income | 5,603 | 5,550
+Interest expense:
+Interest on deposits | 770 | 882
+Interest on borrowings of consolidated securitization entities | 106 | 104
+Interest on senior and subordinated unsecured notes | 92 | 100
+Total interest expense | 968 | 1,086
+Net interest income | 4,635 | 4,464
+Retailer share arrangements | ( 1,070 ) | ( 895 )
+Provision for credit losses (Note 4) | 1,335 | 1,491
+Net interest income, after retailer share arrangements and provision for credit losses | 2,230 | 2,078
+Other income:
+Interchange revenue | 264 | 238
+Protection product revenue | 161 | 147
+Loyalty programs | ( 361 ) | ( 311 )
+Other | 69 | 75
+Total other income | 133 | 149
+Other expense:
+Employee costs | 515 | 506
+Professional fees | 209 | 217
+Marketing and business development | 114 | 116
+Information processing | 262 | 219
+Other | 216 | 185
+Total other expense | 1,316 | 1,243
+Earnings before provision for income taxes | 1,047 | 984
+Provision for income taxes (Note 12) | 242 | 227
+Net earnings | $ | 805 | $ | 757
+Net earnings available to common stockholders | $ | 784 | $ | 736
+Earnings per share (Note 11)
+Basic | $ | 2.29 | $ | 1.91
+Diluted | $ | 2.27 | $ | 1.89
+See accompanying notes to condensed consolidated financial statements.
+31
+Table of Contents
+Synchrony Financial and subsidiaries
+Condensed Consolidated Statements of Comprehensive Income (Unaudited)
+____________________________________________________________________________________________
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Net earnings | $ | 805 | $ | 757
+Other comprehensive income (loss)
+Debt securities | ( 6 ) | 8
+Currency translation adjustments | ( 2 ) | ( 1 )
+Employee benefit plans and other | — | ( 1 )
+Other comprehensive income (loss) | ( 8 ) | 6
+Comprehensive income | $ | 797 | $ | 763
+Amounts presented net of taxes. 
+See accompanying notes to condensed consolidated financial statements.
+32
+Table of Contents
+Synchrony Financial and subsidiaries
+Condensed Consolidated Statements of Financial Position (Unaudited)
+____________________________________________________________________________________________
+($ in millions) | At March 31, 2026 | At December 31, 2025
+Assets
+Cash and equivalents | $ | 20,559 | $ | 14,973
+Debt securities (Note 3) | 3,040 | 2,348
+Loan receivables: (Notes 4 and 5)
+Unsecuritized loans held for investment | 78,423 | 81,408
+Restricted loans of consolidated securitization entities | 21,662 | 22,400
+Total loan receivables | 100,085 | 103,808
+Less: Allowance for credit losses | ( 10,428 ) | ( 10,442 )
+Loan receivables, net | 89,657 | 93,366
+Goodwill | 1,363 | 1,363
+Intangible assets, net (Note 6) | 1,223 | 1,255
+Other assets | 5,659 | 5,790
+Total assets | $ | 121,501 | $ | 119,095
+Liabilities and Equity
+Deposits: (Note 7)
+Interest-bearing deposit accounts | $ | 82,478 | $ | 80,748
+Non-interest-bearing deposit accounts | 416 | 396
+Total deposits | 82,894 | 81,144
+Borrowings: (Notes 5 and 8)
+Borrowings of consolidated securitization entities | 8,915 | 8,415
+Senior and subordinated unsecured notes | 7,513 | 6,767
+Total borrowings | 16,428 | 15,182
+Accrued expenses and other liabilities | 5,702 | 6,003
+Total liabilities | $ | 105,024 | $ | 102,329
+Equity:
+Preferred stock, par value $ 0.001 per share; 300 million shares authorized, 1.25 million shares issued and outstanding at March 31, 2026 and December 31, 2025 | $ | 1,222 | $ | 1,222
+Common stock, par value $ 0.001 per share; 4.0 billion shares authorized; 834 million shares issued at both March 31, 2026 and December 31, 2025; 337 million and 347 million shares outstanding at March 31, 2026 and December 31, 2025, respectively | 1 | 1
+Additional paid-in capital | 9,844 | 9,902
+Retained earnings | 25,210 | 24,598
+Accumulated other comprehensive income (loss):
+Debt securities | ( 12 ) | ( 6 )
+Currency translation adjustments | ( 52 ) | ( 50 )
+Employee benefit plans and other | 8 | 8
+Treasury stock, at cost; 497 million and 487 million shares at March 31, 2026 and December 31, 2025, respectively | ( 19,744 ) | ( 18,909 )
+Total equity | 16,477 | 16,766
+Total liabilities and equity | $ | 121,501 | $ | 119,095
+See accompanying notes 
+to condensed consolidated financial statements
+.
+33
+Table of Contents
+Synchrony Financial and subsidiaries
+Condensed Consolidated Statements of Changes in Equity (Unaudited)
+____________________________________________________________________________________________
+Preferred Stock | Common Stock
+($ in millions, shares in thousands) | Shares Issued | Amount | Shares Issued | Amount | Additional Paid-in Capital | Retained Earnings | Accumulated Other Comprehensive Income (Loss) | Treasury Stock | Total Equity
+Balance at January 1, 2025 | 1,250 | $ | 1,222 | 833,985 | $ | 1 | $ | 9,853 | $ | 21,635 | $ | ( 59 ) | $ | ( 16,072 ) | $ | 16,580
+Net earnings | — | — | — | — | — | 757 | — | — | 757
+Other comprehensive income (loss) | — | — | — | — | — | — | 6 | — | 6
+Purchases of treasury stock | — | — | — | — | — | — | — | ( 605 ) | ( 605 )
+Stock-based compensation | — | — | — | — | ( 49 ) | ( 65 ) | — | 75 | ( 39 )
+Dividends - Series A preferred stock ($ 14.06 per share) | — | — | — | — | — | ( 11 ) | — | — | ( 11 )
+Dividends - Series B preferred stock ($ 20.63 per share) | — | — | — | — | — | ( 10 ) | — | — | ( 10 )
+Dividends - common stock ($ 0.25 per share) | — | — | — | — | — | ( 97 ) | — | — | ( 97 )
+Balance at March 31, 2025 | 1,250 | $ | 1,222 | 833,985 | $ | 1 | $ | 9,804 | $ | 22,209 | $ | ( 53 ) | $ | ( 16,602 ) | $ | 16,581
+Preferred Stock | Common Stock
+($ in millions, shares in thousands) | Shares Issued | Amount | Shares Issued | Amount | Additional Paid-in Capital | Retained Earnings | Accumulated Other Comprehensive Income (Loss) | Treasury Stock | Total Equity
+Balance at January 1, 2026 | 1,250 | $ | 1,222 | 833,985 | $ | 1 | $ | 9,902 | $ | 24,598 | $ | ( 48 ) | $ | ( 18,909 ) | $ | 16,766
+Net earnings | — | — | — | — | — | 805 | — | — | 805
+Other comprehensive income (loss) | — | — | — | — | — | — | ( 8 ) | — | ( 8 )
+Purchases of treasury stock | — | — | — | — | — | — | — | ( 907 ) | ( 907 )
+Stock-based compensation | — | — | — | — | ( 58 ) | ( 68 ) | — | 72 | ( 54 )
+Dividends - Series A preferred stock ($ 14.06 per share) | — | — | — | — | — | ( 10 ) | — | — | ( 10 )
+Dividends - Series B preferred stock ($ 20.63 per share) | — | — | — | — | — | ( 11 ) | — | — | ( 11 )
+Dividends - common stock ($ 0.30 per share) | — | — | — | — | — | ( 104 ) | — | — | ( 104 )
+Balance at March 31, 2026 | 1,250 | $ | 1,222 | 833,985 | $ | 1 | $ | 9,844 | $ | 25,210 | $ | ( 56 ) | $ | ( 19,744 ) | $ | 16,477
+See accompanying notes to condensed consolidated financial statements.
+34
+Table of Contents
+Synchrony Financial and subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited) 
+____________________________________________________________________________________________
+Three months ended March 31,
+( $ in millions ) | 2026 | 2025
+Cash flows - operating activities
+Net earnings | $ | 805 | $ | 757
+Adjustments to reconcile net earnings to cash provided from operating activities
+Provision for credit losses | 1,335 | 1,491
+Deferred income taxes | 28 | 54
+Depreciation and amortization | 143 | 125
+All other operating activities | 206 | 128
+Changes in operating assets and liabilities, net of effects of acquisitions and dispositions
+(Increase) decrease in interest and fees receivable | ( 124 ) | ( 33 )
+(Increase) decrease in other assets | 102 | 1
+Increase (decrease) in accrued expenses and other liabilities | ( 312 ) | ( 323 )
+Cash provided from (used for) operating activities | 2,183 | 2,200
+Cash flows - investing activities
+Maturity and sales of debt securities | 500 | 855
+Purchases of debt securities | ( 1,190 ) | ( 480 )
+Net (increase) decrease in loan receivables, including held for sale | 2,358 | 3,428
+All other investing activities | ( 144 ) | ( 200 )
+Cash provided from (used for) investing activities | 1,524 | 3,603
+Cash flows - financing activities
+Borrowings of consolidated securitization entities
+Proceeds from issuance of securitized debt | 498 | 747
+Maturities and repayment of securitized debt | — | —
+Senior and subordinated unsecured notes
+Proceeds from issuance of senior and subordinated unsecured notes | 745 | 796
+Maturities and repayment of senior and subordinated unsecured notes | — | —
+Dividends paid on preferred stock | ( 21 ) | ( 21 )
+Net increase (decrease) in deposits | 1,748 | 1,370
+Purchases of treasury stock | ( 900 ) | ( 605 )
+Dividends paid on common stock | ( 104 ) | ( 97 )
+All other financing activities | ( 87 ) | ( 71 )
+Cash provided from (used for) financing activities | 1,879 | 2,119
+Increase (decrease) in cash and equivalents, including restricted amounts | 5,586 | 7,922
+Cash and equivalents, including restricted amounts, at beginning of period | 15,017 | 14,755
+Cash and equivalents at end of period:
+Cash and equivalents | 20,559 | 21,629
+Restricted cash and equivalents included in other assets | 44 | 1,048
+Total cash and equivalents, including restricted amounts, at end of period | $ | 20,603 | $ | 22,677
+See accompanying notes to condensed consolidated financial statements.
+35
+Table of Contents
+Synchrony Financial and subsidiaries
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+____________________________________________________________________________________________
+NOTE 1.    
+BUSINESS DESCRIPTION
+Synchrony Financial (the “Company”) provides a range of credit products through financing programs it has established with a diverse group of national and regional retailers, local merchants, manufacturers, buying groups, industry associations and healthcare service providers. Through Synchrony Bank (the “Bank”), we primarily offer private label credit cards, co-branded credit cards, comprising our Dual Card offering and general purpose co-branded credit cards, and a Synchrony-branded general purpose credit card, as well as short- and long-term installment loans, and savings products insured by the Federal Deposit Insurance Corporation (“FDIC”). We conduct our operations through a single business segment. See Note 13. 
+Segment Reporting
+ for additional information.
+References to the “Company”, “we”, “us” and “our” are to Synchrony Financial and its consolidated subsidiaries unless the context otherwise requires.
+NOTE 2.    
+BASIS OF PRESENTATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The accompanying condensed consolidated financial statements were prepared in conformity with U.S. generally accepted accounting principles (“GAAP”).
+Preparing financial statements in conformity with U.S. GAAP requires us to make estimates based on assumptions about current, and for some estimates, future, economic and market conditions (for example, unemployment,  interest rates and market liquidity) which affect reported amounts and related disclosures in our condensed consolidated financial statements. Although our current estimates contemplate current conditions and how we expect them to change in the future, as appropriate, it is reasonably possible that actual conditions could be different than anticipated in those estimates, which could materially affect our results of operations and financial position. Among other effects, such changes could result in incremental losses on loan receivables, future impairments of debt securities, goodwill and intangible assets, increases in reserves for contingencies, establishment of valuation allowances on deferred tax assets and increases in our tax liabilities.
+We primarily conduct our business within the United States and substantially all of our revenues are from U.S. customers. The operating activities conducted by our non-U.S. affiliates use the local currency as their functional currency. The effects of translating the financial statements of these non-U.S. affiliates to U.S. dollars are included in equity. Asset and liability accounts are translated at period-end exchange rates, while revenues and expenses are translated at average rates for the respective periods.
+Consolidated Basis of Presentation
+The Company’s financial statements have been prepared on a consolidated basis. Under this basis of presentation, our financial statements consolidate all of our subsidiaries – i.e., entities in which we have a controlling financial interest, most often because we hold a majority voting interest, as well as certain variable interest entities ("VIE's").
+Interim Period Presentation
+The condensed consolidated financial statements and notes thereto are unaudited. These statements include all adjustments (consisting of normal recurring accruals) that we considered necessary to present a fair statement of our results of operations, financial position and cash flows. The results reported in these condensed consolidated financial statements should not be considered as necessarily indicative of results that may be expected for the entire year. These condensed consolidated financial statements should be read in conjunction with our 2025 annual consolidated financial statements and the related notes in our Annual Report on Form 10-K for the year ended December 31, 2025 (our "2025 Form 10-K").
+36
+Table of Contents
+New Accounting Standards
+Recently Issued But Not Yet Adopted Accounting Standards
+In November 2024, the FASB issued ASU 2024-03, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40). This ASU requires disaggregated information about certain income statement line items in a tabular format in the notes to the financial statements. The Company will adopt this guidance on its effective date, which for us is beginning within our December 31, 2027 Form 10-K, and is currently determining the method of adoption, however, it is not expected to have a material impact on our Consolidated Financial Statements.
+In September 2025, the FASB issued ASU 2025-06, Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40). This ASU amends certain aspects of the accounting for and disclosure of software costs. This ASU requires an entity to start capitalizing software costs when both management has authorized and committed to funding the software project, and it is probable that the project will be completed and the software will be used to perform the function intended. The amendments in this update are effective for the Company beginning in January 2028, through either a prospective, modified, or retrospective transition approach, with early adoption permitted. The Company is currently evaluating the updated guidance to assess the impact and the method of adoption.
+In November 2025, the FASB issued ASU 2025-08, Financial Instruments – Credit Losses (Topic 326) – Purchased Loans. ASU expands the population of purchased financial assets subject to the gross-up approach in Topic 326. As a result of this update, loans (excluding credit cards) acquired without credit deterioration and deemed “seasoned” as defined in the ASU will follow the gross-up approach at acquisition and the initial allowance for credit losses at acquisition is added to the amortized cost basis of the loans. The Company is currently evaluating the updated guidance, which is effective prospectively beginning January 2027, with early adoption permitted.
+In December 2025, the FASB issued ASU 2025-11, Interim Reporting (Topic 270), which improves the navigability of the required interim disclosures, provides clarity as to when it is applicable, and provides additional guidance on what disclosures are required in interim reporting periods by establishing a disclosure principle. The guidance is effective for interim reporting periods beginning in 2028 and can be applied either prospectively or retrospectively. The Company is currently evaluating the updated guidance to assess the impact and determining its method of adoption.
+See Note 2. 
+Basis of Presentation and Summary of Significant Accounting Policies
+ to our 2025 annual consolidated financial statements in our 2025 Form 10-K, for additional information on our significant accounting policies.
+37
+Table of Contents
+NOTE 3.    
+DEBT SECURITIES
+All of our debt securities are classified as available-for-sale and are held to meet our liquidity objectives or to comply with the Community Reinvestment Act (“CRA”). 
+Our debt securities consist of the following:
+March 31, 2026 | December 31, 2025
+Gross | Gross | Gross | Gross
+Amortized | unrealized | unrealized | Estimated | Amortized | unrealized | unrealized | Estimated
+($ in millions) | cost | gains | losses | fair value | cost | gains | losses | fair value
+U.S. government and federal agency | $ | 2,178 | $ | 5 | $ | ( 2 ) | $ | 2,181 | $ | 1,485 | $ | 7 | $ | — | $ | 1,492
+State and municipal | 34 | — | — | 34 | 35 | — | — | 35
+Residential mortgage-backed (a) | 313 | — | ( 22 ) | 291 | 318 | 1 | ( 22 ) | 297
+Asset-backed (b) | 523 | 3 | — | 526 | 509 | 6 | — | 515
+Other | 8 | — | — | 8 | 8 | 1 | — | 9
+Total (c) | $ | 3,056 | $ | 8 | $ | ( 24 ) | $ | 3,040 | $ | 2,355 | $ | 15 | $ | ( 22 ) | $ | 2,348
+_______________________
+(a)
+All of our residential mortgage-backed securities have been issued by government-sponsored entities and are collateralized by U.S. mortgages. 
+(b)
+Our asset-backed securities are collateralized by credit card and auto loans.
+(c)    
+At March 31, 2026 and December 31, 2025, the estimated fair value of debt securities pledged by the Bank as collateral to the Federal Reserve to secure Federal Reserve discount window advances was $
+255
+ million and $
+470
+ million, respectively.
+The following table presents the estimated fair values and gross unrealized losses of our available-for-sale debt securities: 
+In loss position for
+Less than 12 months | 12 months or more
+Gross | Gross
+Estimated | unrealized | Estimated | unrealized
+($ in millions) | fair value | losses | fair value | losses
+At March 31, 2026
+U.S. government and federal agency | $ | 1,048 | $ | ( 2 ) | $ | — | $ | —
+State and municipal | 16 | — | 5 | —
+Residential mortgage-backed | 40 | — | 214 | ( 22 )
+Asset-backed | 92 | — | — | —
+Other | — | — | — | —
+Total (a) | $ | 1,196 | $ | ( 2 ) | $ | 219 | $ | ( 22 )
+At December 31, 2025
+U.S. government and federal agency | $ | — | $ | — | $ | — | $ | —
+State and municipal | 17 | — | 5 | —
+Residential mortgage-backed | — | — | 229 | ( 22 )
+Asset-backed | — | — | — | —
+Other | — | — | — | —
+Total (a) | $ | 17 | $ | — | $ | 234 | $ | ( 22 )
+______________________
+(a)
+Consists of 
+233
+ and 
+211
+ securities in gross unrealized loss positions at March 31, 2026 and December 31, 2025, respectively.
+38
+Table of Contents
+We regularly review debt securities for impairment resulting from credit loss using both qualitative and quantitative criteria, as necessary, based on the composition of the portfolio at period end. Based on our assessment, no material impairments from credit losses were recognized during the period.
+We presently do not intend to sell our debt securities that are in an unrealized loss position and believe that it is not more likely than not that we will be required to sell these securities before recovery of our amortized cost. 
+Contractual Maturities of Investments in Available-for-Sale Debt Securities 
+At March 31, 2026 ($ in millions) | Due within 1 year | Due after 1 year through 5 years | Due after 5 years through 10 years | Due after 10 years | Total
+U.S. government and federal agency | $ | 1,148 | $ | 1,033 | $ | — | $ | — | $ | 2,181
+State and municipal | — | 6 | — | 28 | 34
+Residential mortgage-backed | 1 | 18 | 124 | 148 | 291
+Asset-backed | 179 | 347 | — | — | 526
+Other | — | 8 | — | — | 8
+Total estimated fair value | $ | 1,328 | $ | 1,412 | $ | 124 | $ | 176 | $ | 3,040
+Amortized cost | $ | 1,327 | $ | 1,408 | $ | 134 | $ | 187 | $ | 3,056
+Weighted average yield (a) | 4.0 | 4.0 | 1.4 | 4.0 | 3.9
+______________________
+(a)
+Weighted average yield is calculated based on the amortized cost of each security. In calculating yield, no adjustment has been made with respect to any tax-exempt obligations.
+All securities are presented above based upon contractual maturity date, except our asset-backed securities which are allocated based upon expected final payment date. We expect actual maturities to differ from contractual maturities because borrowers have the right to prepay certain obligations.
+There were no material realized gains or losses recognized for the three months ended March 31, 2026 and 2025.
+Although we generally do not have the intent to sell any specific securities held at March 31, 2026, in the ordinary course of managing our debt securities portfolio, we may sell securities prior to their maturities for a variety of reasons, including diversification, credit quality, yield, liquidity requirements and funding obligations.
+NOTE 4.    
+LOAN RECEIVABLES AND ALLOWANCE FOR CREDIT LOSSES
+($ in millions) | March 31, 2026 | December 31, 2025
+Credit cards | $ | 92,764 | $ | 96,346
+Consumer installment loans | 5,357 | 5,548
+Commercial credit products | 1,886 | 1,833
+Other | 78 | 81
+Total loan receivables, before allowance for credit losses (a)(b)(c) | $ | 100,085 | $ | 103,808
+_______________________
+(a)
+Total loan receivables include $
+21.7
+ billion and $
+22.4
+ billion of restricted loans of consolidated securitization entities at March 31, 2026 and December 31, 2025, respectively. See Note 5. 
+Variable Interest Entities
+ for further information.
+(b)
+At March 31, 2026 and December 31, 2025, loan receivables included deferred costs, net of purchase discounts and deferred income, of $(
+32
+) million and $(
+53
+) million, respectively.
+(c)
+At March 31, 2026 and December 31, 2025, $
+20.0
+ billion and $
+18.3
+ billion, respectively, of loan receivables were pledged by the Bank as collateral to the Federal Reserve to secure Federal Reserve discount window advances.
+39
+Table of Contents
+Loan Receivables Acquired
+In April 2026, we completed our acquisition of the Lowe's commercial co-branded credit card portfolio, comprising of approximately $
+0.7
+ billion of outstanding loan receivables. This transaction was accounted for as an asset purchase.
+Allowance for Credit Losses
+($ in millions) | Balance at January 1, 2026 | Provision charged to operations (a) | Gross charge-offs | Recoveries | Other | Balance at March 31, 2026
+Credit cards | $ | 9,789 | $ | 1,148 | $ | ( 1,642 ) | $ | 409 | $ | — | $ | 9,704
+Consumer installment loans | 543 | 154 | ( 101 ) | 18 | — | 614
+Commercial credit products | 109 | 30 | ( 33 ) | 3 | — | 109
+Other | 1 | — | — | — | — | 1
+Total | $ | 10,442 | $ | 1,332 | $ | ( 1,776 ) | $ | 430 | $ | — | $ | 10,428
+($ in millions) | Balance at January 1, 2025 | Provision charged to operations (a) | Gross charge-offs | Recoveries | Other | Balance at March 31, 2025
+Credit cards | $ | 10,259 | $ | 1,336 | $ | ( 1,822 ) | $ | 360 | $ | — | $ | 10,133
+Consumer installment loans | 542 | 135 | ( 110 ) | 17 | — | 584
+Commercial credit products | 127 | 16 | ( 35 ) | 2 | — | 110
+Other | 1 | — | — | — | — | 1
+Total | $ | 10,929 | $ | 1,487 | $ | ( 1,967 ) | $ | 379 | $ | — | $ | 10,828
+_______________________
+(a)
+Provision for credit losses in our Condensed Consolidated Statements of Earnings also includes amounts associated with off-balance sheet credit exposures recorded in Accrued expenses and other liabilities in the Condensed Consolidated Statements of Financial Position.
+The reasonable and supportable forecast period used in our estimate of credit losses at March 31, 2026 was 
+12
+ months, consistent with the forecast period utilized since the adoption of CECL. Beyond the reasonable and supportable forecast period, we revert to historical loss information at the loan receivables segment level over a 
+6-month
+ period on a straight-line basis, and utilize historical loss information thereafter for the remaining life of the portfolio. 
+Losses on loan receivables, including those which are modified for borrowers experiencing financial difficulty, are estimated and recognized upon origination of the loan, and updated based on expected credit losses for the life of the loan balance at the period end date. Expected credit loss estimates are developed using both quantitative models and qualitative adjustments, and incorporates a macroeconomic forecast. The current and forecasted economic conditions at the balance sheet date are reflected in our current estimate of expected credit losses, as well as expectations of the macroeconomic environment. Our allowance for credit losses remained flat at $
+10.4
+ billion at March 31, 2026, as compared to December 31, 2025, reflecting asset quality trends in line with the prior quarter. See Note 2. 
+Basis of Presentation and Summary of Significant Accounting Policies
+ to our 2025 annual consolidated financial statements within our 2025 Form 10-K, for additional information on our significant accounting policies related to our allowance for credit losses.
+40
+Table of Contents
+Delinquent and Non-accrual Loans
+The following tables provide information on our delinquent and non-accrual loan receivables:
+At March 31, 2026 ($ in millions) | 30-89 days delinquent | 90 or more days delinquent | Total past due | 90 or more days delinquent and accruing | Total non-accruing
+Credit cards | $ | 2,065 | $ | 2,193 | $ | 4,258 | $ | 2,193 | $ | —
+Consumer installment loans | 144 | 46 | 190 | — | 46
+Commercial credit products | 50 | 45 | 95 | 45 | —
+Total delinquent loans | $ | 2,259 | $ | 2,284 | $ | 4,543 | $ | 2,238 | $ | 46
+Percentage of total loan receivables | 2.2 | 2.3 | 4.5 | 2.2 | —
+At December 31, 2025 ($ in millions) | 30-89 days delinquent | 90 or more days delinquent | Total past due | 90 or more days delinquent and accruing | Total non-accruing
+Credit cards | $ | 2,223 | $ | 2,181 | $ | 4,404 | $ | 2,181 | $ | —
+Consumer installment loans | 144 | 31 | 175 | — | 31
+Commercial credit products | 45 | 36 | 81 | 36 | —
+Total delinquent loans | $ | 2,412 | $ | 2,248 | $ | 4,660 | $ | 2,217 | $ | 31
+Percentage of total loan receivables | 2.3 | 2.2 | 4.5 | 2.1 | —
+Credit Quality Indicators
+Our loan receivables portfolio includes both secured and unsecured loans. Secured loan receivables are largely comprised of consumer installment loans secured by equipment. Unsecured loan receivables are largely comprised of our open-end consumer and commercial revolving credit card loans. As part of our credit risk management activities, on an ongoing basis, we assess overall credit quality by reviewing information related to the performance of a customer’s account with us, including delinquency information, as well as information from credit bureaus relating to the customer’s broader credit performance. We utilize VantageScore credit data and scores to assist in our assessment of consumer credit quality. VantageScore credit data and scores are obtained at origination of the account and are refreshed, at a minimum quarterly, but could be as often as weekly, to assist in predicting customer behavior. We categorize these credit scores into the following 
+three
+ credit score categories: (i) 651 or higher, which are considered the strongest credits; (ii) 591 to 650, considered moderate credit risk; and (iii) 590 or less, which are considered weaker credits. There are certain customer accounts, including for our commercial credit products, for which a VantageScore credit score may not be available where we use alternative sources to assess their credit quality and predict behavior. The following table provides the most recent VantageScore credit scores, or equivalent, available for our revolving credit card and commercial credit product customers at March 31, 2026, December 31, 2025 and March 31, 2025, respectively, as a percentage of each class of loan receivables. 
+The table below excludes 
+0.3
+%, 
+0.4
+% and 
+0.3
+% of our total loan receivables balance for our credit cards and commercial credit products at March 31, 2026, December 31, 2025 and March 31, 2025, respectively, which represents those customer accounts for which a VantageScore credit score, or equivalent, is not available.
+March 31, 2026 | December 31, 2025 | March 31, 2025
+651 or | 591 to | 590 or | 651 or | 591 to | 590 or | 651 or | 591 to | 590 or
+higher | 650 | less | higher | 650 | less | higher | 650 | less
+Credit cards | 73 | 19 | 8 | 74 | 18 | 8 | 72 | 19 | 9
+Commercial credit products | 82 | 12 | 6 | 83 | 11 | 6 | 83 | 11 | 6
+Consumer Installment Loans
+Delinquency trends are the primary credit quality indicator for our consumer installment loans, which we use to monitor credit quality and risk within the portfolio. The tables below include information on our consumer installment loans by origination year. 
+41
+Table of Contents
+Consumer Installment Loans by Origination Year
+By origination year
+At March 31, 2026 ($ in millions) | 2026 | 2025 | 2024 | 2023 | 2022 | Prior | Total
+Amortized cost basis | $ | 478 | $ | 1,743 | $ | 1,338 | $ | 954 | $ | 580 | $ | 264 | $ | 5,357
+30-89 days delinquent | $ | 12 | $ | 42 | $ | 31 | $ | 28 | $ | 21 | $ | 10 | $ | 144
+90 or more days delinquent | $ | — | $ | 12 | $ | 10 | $ | 10 | $ | 10 | $ | 4 | $ | 46
+By origination year
+At December 31, 2025 ($ in millions) | 2025 | 2024 | 2023 | 2022 | 2021 | Prior | Total
+Amortized cost basis | $ | 1,959 | $ | 1,524 | $ | 1,091 | $ | 655 | $ | 241 | $ | 78 | $ | 5,548
+30-89 days delinquent | $ | 37 | $ | 37 | $ | 35 | $ | 23 | $ | 9 | $ | 3 | $ | 144
+90 or more days delinquent | $ | 9 | $ | 9 | $ | 7 | $ | 4 | $ | 1 | $ | 1 | $ | 31
+Gross Charge-offs for Consumer Installment Loans by Origination Year
+By origination year
+For the three months ended ($ in millions) | 2026 | 2025 | 2024 | 2023 | 2022 | Prior | Total
+March 31, 2026 | $ | — | $ | 33 | $ | 25 | $ | 22 | $ | 14 | $ | 7 | $ | 101
+March 31, 2025 | $ | — | $ | — | $ | 37 | $ | 37 | $ | 25 | $ | 11 | $ | 110
+Loan Modifications to Borrowers Experiencing Financial Difficulty
+The following table provides information on our loan modifications made to borrowers experiencing financial difficulty during the periods presented, which do not include loans that are classified as loan receivables held for sale:
+Three months ended March 31, | 2026 | 2025
+($ in millions) | Amount (a) | % of Total Class of Loan Receivables | Amount | % of Total Class of Loan Receivables
+Long-term modifications
+Credit cards | $ | 398 | 0.4 | $ | 439 | 0.5
+Consumer installment loans | — | — | — | —
+Commercial credit products | 2 | 0.1 | 3 | 0.2
+Short-term modifications
+Credit cards | 218 | 0.2 | 255 | 0.3
+Consumer installment loans | — | — | — | —
+Commercial credit products | 1 | — | 1 | —
+Total | $ | 619 | 0.6 | $ | 698 | 0.7
+_______________________
+(a)
+Represents balance at enrollment date. Long-term and short-term loan modifications made to borrowers for the three months ended March 31, 2026 had amortized cost balances at March 31, 2026 of $
+385
+ million and $
+131
+ million, respectively. 
+Financial Effects of Loan Modifications to Borrowers Experiencing Financial Difficulty
+As part of our loan modifications to borrowers experiencing financial difficulty, we may provide multiple concessions to minimize our economic loss and improve long-term loan performance and collectability. 
+For long-term modifications made in the three months ended March 31, 2026 and 2025, the financial effect of these modifications reduced the weighted-average interest rates by 
+97
+% for all periods presented. For short-term modifications made in the three months ended March 31, 2026 and 2025, unpaid balances of $
+11
+ million and $
+15
+ million, respectively, were forgiven related to borrowers who successfully exited the program. 
+42
+Table of Contents
+Performance of Loans Modified to Borrowers Experiencing Financial Difficulty
+The following tables provide information on the performance of loans modified to borrowers experiencing financial difficulty which have been modified within the previous 12 months from the applicable balance sheet date and remained in a modification program at March 31, 2026 and 2025, respectively:
+Amortized cost basis
+At March 31, 2026 ($ in millions) | Current | 30-89 days delinquent | 90 or more days delinquent | Total past due (a)
+Long-term modifications
+Credit cards | $ | 922 | $ | 144 | $ | 113 | $ | 257
+Consumer installment loans | — | — | — | —
+Commercial credit products | 4 | 1 | 1 | 2
+Short-term modifications
+Credit cards | 58 | 33 | 40 | 73
+Consumer installment loans | — | — | — | —
+Commercial credit products | — | — | — | —
+Total loans modified | $ | 984 | $ | 178 | $ | 154 | $ | 332
+Percentage of total loan receivables | 1.0 | 0.2 | 0.1 | 0.3
+Amortized cost basis
+At March 31, 2025 ($ in millions) | Current | 30-89 days delinquent | 90 or more days delinquent | Total past due (a)
+Long-term modifications
+Credit cards | $ | 997 | $ | 163 | $ | 131 | $ | 294
+Consumer installment loans | — | — | — | —
+Commercial credit products | 4 | 1 | 1 | 2
+Short-term modifications
+Credit cards | 65 | 40 | 48 | 88
+Consumer installment loans | — | — | — | —
+Commercial credit products | — | — | — | —
+Total loans modified | $ | 1,066 | $ | 204 | $ | 180 | $ | 384
+Percentage of total loan receivables | 1.1 | 0.2 | 0.2 | 0.4
+___________________
+(a)
+Once a loan has been modified, it only returns to current status if the borrower pays the total minimum payment due or if the loan is re-aged after 
+three
+ consecutive monthly program payments are received post the modification date.
+Payment Defaults
+The following table presents loans to borrowers experiencing financial difficulty that enrolled in a long-term modification program within the previous 12 months from the applicable balance sheet date, and experienced a payment default and charged-off during the period presented:
+For the three months ended March 31 ($ in millions) | 2026 | 2025
+Credit cards | $ | 101 | $ | 110
+Consumer installment loans | — | —
+Commercial credit products | 1 | 1
+Total | $ | 102 | $ | 111
+Of the loans modified to borrowers experiencing financial difficulty that enrolled in a short-term modification program within the previous 12 months from the applicable balance sheet date, 
+60
+% had fully completed all required payments and successfully exited the program during both the three months ended March 31, 2026 and 2025.
+43
+Table of Contents
+Unfunded Lending Commitments
+We manage the potential risk in credit commitments by limiting the total amount of credit, both by individual customer and in total, by monitoring the size and maturity of our portfolios and by applying a consistent underwriting approach for all of our credit products. Unused credit card lines available to our customers totaled approximately $
+443
+ billion and $
+440
+ billion at March 31, 2026 and December 31, 2025, respectively. While these amounts represented the total available unused credit card lines, we have not experienced and do not anticipate that all of our customers will access their entire available line at any given point in time.
+Interest Income by Product
+The following table provides additional information about our interest and fees on loans, including merchant discounts, from our loan receivables, including held for sale:
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Credit cards (a) | $ | 5,152 | $ | 5,055
+Consumer installment loans | 188 | 211
+Commercial credit products | 72 | 45
+Other | 1 | 1
+Total (b) | $ | 5,413 | $ | 5,312
+_______________________
+(a)
+Interest income on credit cards that was reversed related to accrued interest receivables written off was $
+611
+ million and $
+646
+ million for the three months ended March 31, 2026 and 2025, respectively.
+(b)
+Deferred merchant discounts to be recognized in interest income at March 31, 2026 and December 31, 2025, were $
+1.7
+ billion and $
+1.8
+ billion, respectively, which are included in Accrued expenses and other liabilities in our Condensed Consolidated Statements of Financial Position.
+44
+Table of Contents
+NOTE 5.    
+VARIABLE INTEREST ENTITIES
+We use VIEs to securitize loan receivables and arrange public and private asset-backed financing in the ordinary course of business through Synchrony Card Issuance Trust, as well as private asset-backed financing through Synchrony Credit Card Master Note Trust and Synchrony Sales Finance Master Trust. Investors in these entities only have recourse to the assets owned by the entity and not to our general credit. We do not have implicit support arrangements with any VIE and we did not provide non-contractual support for previously transferred loan receivables to any of these VIEs in the three months ended March 31, 2026 and 2025. Our VIEs are able to accept new loan receivables and arrange new asset-backed financings, consistent with the requirements and limitations on such activities placed on the VIE by existing investors. Once an account has been designated to a VIE, the contractual arrangements we have require all existing and future loan receivables originated under such account to be transferred to the VIE. The amount of loan receivables held by our VIEs in excess of the minimum amount required under the asset-backed financing arrangements with investors may be removed by us under removal of accounts provisions. All loan receivables held by a VIE are subject to claims of third-party investors.
+The loan receivables in these entities have risks and characteristics similar to our other loan receivables and were underwritten to the same standard. Accordingly, the performance of these assets has been similar to our other comparable loan receivables, and the blended performance of the pools of receivables in these entities reflects the eligibility criteria that we apply to determine which receivables are selected for transfer. Contractually, the cash flows from these loan receivables must first be used to pay third-party debt holders, as well as other expenses of the entity. Excess cash flows, if any, are available to us. The creditors of these entities have no claim on our other assets.
+The table below summarizes the assets and liabilities of our consolidated securitization VIEs described above:
+($ in millions) | March 31, 2026 | December 31, 2025
+Assets
+Loan receivables, net (a) | $ | 19,702 | $ | 20,457
+Other assets (b) | 45 | 46
+Total | $ | 19,747 | $ | 20,503
+Liabilities
+Borrowings | $ | 8,915 | $ | 8,415
+Other liabilities | 27 | 28
+Total | $ | 8,942 | $ | 8,443
+_______________________
+(a)
+Includes $
+2.0
+ billion and $
+1.9
+ billion of related allowance for credit losses resulting in gross restricted loan receivables of $
+21.7
+ billion and $
+22.4
+ billion at March 31, 2026 and December 31, 2025, respectively.
+(b)    
+Includes $
+42
+ million of segregated funds held by the VIEs at both March 31, 2026 and December 31, 2025, which are classified as restricted cash and equivalents and included as a component of 
+Other assets
+ in our Condensed Consolidated Statements of Financial Position.
+The balances presented above are net of intercompany balances and transactions that are eliminated in our condensed consolidated financial statements, including amounts related to servicing of the loan receivables held by our VIEs. 
+We provide servicing for all of our consolidated VIEs. Collections are required to be placed into segregated accounts owned by each VIE in amounts that meet contractually specified minimum levels. These segregated funds are invested in cash and cash equivalents and are restricted as to their use, principally to pay maturing principal and interest on debt and the related servicing fees. Collections above these minimum levels are remitted to us on a daily basis.
+45
+Table of Contents
+The table below summarizes selected financial metrics of our consolidated securitization VIEs described above:
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Interest and fees on loans | $ | 1,125 | $ | 1,050
+Provision for credit losses | $ | 241 | $ | 202
+Interest expense | $ | 106 | $ | 104
+These amounts do not include intercompany transactions, which are eliminated in our condensed consolidated financial statements.
+Non-consolidated VIEs
+As part of our community reinvestment initiatives, we invest in funds that invest in affordable housing properties and receive affordable housing tax credits for these investments. We account for these investments using the proportional amortization method, where the costs of the investment are amortized in proportion to the income tax credits and other income tax benefits received. These investments are included in Other assets within our Condensed Consolidated Statements of Financial Position and totaled $
+903
+ million and $
+943
+ million at March 31, 2026 and December 31, 2025, respectively. At March 31, 2026, we are committed to provide funding related to these investments of $
+459
+ million, which is expected to be paid between 2026 and 2042, and is reported within Other liabilities within our Condensed Consolidated Statements of Financial Position.
+The table below summarizes amortization expense and tax credits and other tax benefits associated with investments in affordable housing properties included in Provision for income taxes in our Condensed Consolidated Statements of Earnings:
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Amortization expense | $ | 40 | $ | 27
+Tax credits and other benefits | $ | ( 49 ) | $ | ( 33 )
+Our other investments in non-consolidated VIEs totaled $
+293
+ million and $
+301
+ million at March 31, 2026 and December 31, 2025, respectively, and are included in Other assets within our Condensed Consolidated Statements of Financial Position. At March 31, 2026, the Company also had investment commitments of $
+207
+ million related to these investments. We may be required to fund these commitments between 2026 and 2046
+.
+NOTE 6.    
+INTANGIBLE ASSETS
+March 31, 2026 | December 31, 2025
+($ in millions) | Gross carrying amount | Accumulated amortization | Net | Gross carrying amount | Accumulated amortization | Net
+Capitalized software | $ | 3,143 | $ | ( 2,020 ) | $ | 1,123 | $ | 3,072 | $ | ( 1,921 ) | $ | 1,151
+Other | 247 | ( 147 ) | 100 | 247 | ( 143 ) | 104
+Total | $ | 3,390 | $ | ( 2,167 ) | $ | 1,223 | $ | 3,319 | $ | ( 2,064 ) | $ | 1,255
+During the three months ended March 31, 2026, we recorded additions to intangible assets subject to amortization of $
+73
+ million, primarily related to capitalized software expenditures. 
+Amortization expense was $
+105
+ million and $
+86
+ million for the three months ended March 31, 2026 and 2025, respectively, and is included as a component of Other expense in our Condensed Consolidated Statements of Earnings.
+46
+Table of Contents
+NOTE 7.    
+DEPOSITS
+($ in millions) | March 31, 2026 | December 31, 2025
+Interest-bearing deposits:
+Money market and other demand deposits | $ | 2,998 | $ | 2,837
+Savings | 30,138 | 29,777
+Certificates of deposit:
+Direct | 43,631 | 42,229
+Brokered | 3,122 | 3,316
+Brokered sweep accounts | 2,589 | 2,589
+Total interest-bearing deposits | 82,478 | 80,748
+Total non-interest-bearing deposits | 416 | 396
+Total deposits | $ | 82,894 | $ | 81,144
+Certificates of Deposit
+At March 31, 2026, our certificates of deposit maturing for the remainder of 2026 and over the next four years and thereafter were as follows: 
+($ in millions) | 2026 | 2027 | 2028 | 2029 | 2030 | Thereafter
+Certificates of deposit | $ | 27,990 | $ | 12,735 | $ | 2,388 | $ | 1,263 | $ | 2,085 | $ | 292
+At March 31, 2026 and December 31, 2025, direct certificates of deposit of $
+12.8
+ billion and $
+12.3
+ billion, respectively, were of denominations at or exceeding applicable FDIC insurance limits, which are generally $250,000 per depositor for each account ownership category. These amounts include partially insured certificates of deposit. At March 31, 2026 and December 31, 2025, the portion of these direct certificates of deposit estimated to be uninsured was $
+4.4
+ billion and $
+4.2
+ billion, respectively. Brokered certificates of deposit are assumed to be individual deposit balances within applicable FDIC insurance limits.
+Brokered Sweep Deposits
+Our broker network deposit sweeps are procured through a program arranger who channels account deposits to us. Unless extended, the contracts associated with these broker network deposit sweeps will terminate between 2026 and 2029.
+47
+Table of Contents
+NOTE 8.    
+BORROWINGS
+March 31, 2026 | December 31, 2025
+($ in millions) | Maturity date | Interest Rate | Weighted average interest rate | Outstanding Amount (a)(b) | Outstanding Amount (a)(b)
+Borrowings of consolidated securitization entities:
+Fixed securitized borrowings | 2026 - 2029 | 4.06 % - 5.74 % | 4.90 | $ | 5,990 | $ | 5,490
+Floating securitized borrowings | 2027 - 2028 | 4.36 % - 4.66 % | 4.48 | 2,925 | 2,925
+Total borrowings of consolidated securitization entities | 4.77 | 8,915 | 8,415
+Senior unsecured notes:
+Synchrony Financial senior unsecured notes:
+Fixed senior unsecured notes | 2026 - 2031 | 2.88 % - 5.15 % | 3.90 | 2,892 | 2,892
+Fixed to floating senior unsecured notes (c) | 2029 - 2036 | 4.95 % - 6.00 % | 5.46 | 3,280 | 2,534
+Synchrony Bank senior unsecured notes:
+Fixed senior unsecured notes | 2027 | 5.63 % | 5.63 | 599 | 599
+Total senior unsecured notes | 4.81 | 6,771 | 6,025
+Subordinated unsecured notes:
+Synchrony Financial subordinated unsecured notes:
+Fixed subordinated unsecured notes | 2033 | 7.25 % | 7.25 | 742 | 742
+Total senior and subordinated unsecured notes | 5.05 | 7,513 | 6,767
+Total borrowings | $ | 16,428 | $ | 15,182
+ ___________________
+(a)
+Includes unamortized debt premiums, discounts and issuance costs.
+(b)
+The Company may redeem certain borrowings prior to their original contractual maturity dates in accordance with the optional redemption provision specified in the respective instruments.
+(c)
+Includes $
+750
+ million principal amount issued in February 2026, interest rate fixed at 
+4.947
+% through February 24, 2031; resets February 25, 2031 to floating rate based on compounded Secured Overnight Financing Rate ("SOFR") plus 
+153
+ basis points through maturity in February 2032.
+Additional Sources of Liquidity
+We have undrawn committed and uncommitted capacity under our credit facilities from private lenders under our securitization programs, subject to customary borrowing conditions, and also have access to the Federal Reserve discount window. At both March 31, 2026 and December 31, 2025, we had:
+•
+an aggregate of $
+2.6
+ billion of undrawn capacity under our securitization financings, of which $
+2.1
+ billion was committed and $
+450
+ million was uncommitted, and
+•
+available borrowing capacity through the Federal Reserve discount window of $
+10.4
+ billion at March 31, 2026 and $
+10.0
+ billion at December 31, 2025, based on the amount and type of assets pledged.
+48
+Table of Contents
+NOTE 9.    
+FAIR VALUE MEASUREMENTS
+For a description of how we estimate fair value, see Note 2. 
+Basis of Presentation and Summary of Significant Accounting Policies
+ in our 2025 annual consolidated financial statements within our 2025 Form 10-K.
+The following tables present our assets measured at fair value on a recurring basis. Liabilities measured at fair value on a recurring basis were not material for the periods presented. 
+Recurring Fair Value Measurements
+At March 31, 2026 ($ in millions) | Level 1 | Level 2 | Level 3 | Total (a)
+Assets
+Debt securities
+U.S. government and federal agency | $ | — | $ | 2,181 | $ | — | $ | 2,181
+State and municipal | — | — | 34 | 34
+Residential mortgage-backed | — | 291 | — | 291
+Asset-backed | — | 526 | — | 526
+Other | — | — | 8 | 8
+Other (b) | 14 | — | 6 | 20
+Total | $ | 14 | $ | 2,998 | $ | 48 | $ | 3,060
+At December 31, 2025 ($ in millions) | Level 1 | Level 2 | Level 3 | Total (a)
+Assets
+Debt securities
+U.S. government and federal agency | $ | — | $ | 1,492 | $ | — | $ | 1,492
+State and municipal | — | — | 35 | 35
+Residential mortgage-backed | — | 297 | — | 297
+Asset-backed | — | 515 | — | 515
+Other | — | — | 9 | 9
+Other (b) | 15 | — | 7 | 22
+Total | $ | 15 | $ | 2,304 | $ | 51 | $ | 2,370
+_______________________
+(a)    
+For the three months ended March 31, 2026 and 2025, there were no fair value measurements transferred between levels and changes in our Level 3 assets and liabilities were not material.
+(b)    
+Other is primarily comprised of equity investments measured at fair value, which are included in Other assets in our Condensed Consolidated Statements of Financial Position
+.
+Level 3 Fair Value Measurements
+Our Level 3 recurring fair value measurements primarily relate to state and municipal and corporate debt instruments, which are valued using non-binding broker quotes or other third-party sources. See Note 2. 
+Basis of Presentation and Summary of Significant Accounting Policies
+ in our 2025 annual consolidated financial statements within our 2025 Form 10-K for a description of our process to evaluate third-party pricing servicers. Our state and municipal debt securities are classified as available-for-sale with changes in fair value included in Accumulated other comprehensive income in our Condensed Consolidated Statements of Financial Position. 
+49
+Table of Contents
+Financial Assets and Financial Liabilities Carried at Other Than Fair Value
+Carrying | Corresponding fair value amount
+At March 31, 2026 ($ in millions) | value | Total | Level 1 | Level 2 | Level 3
+Financial Assets
+Financial assets for which carrying values equal or approximate fair value (a) :
+Cash and equivalents | $ | 20,559 | $ | 20,559 | $ | 19,511 | $ | 1,048 | $ | —
+Accrued interest receivable | $ | 44 | $ | 44 | $ | 44 | $ | — | $ | —
+Other assets (b) | $ | 44 | $ | 44 | $ | 44 | $ | — | $ | —
+Financial assets carried at other than fair value:
+Loan receivables, net (c) | $ | 89,655 | $ | 102,866 | $ | — | $ | — | $ | 102,866
+Financial Liabilities
+Financial liabilities for which carrying values equal or approximate fair value (a) :
+Accrued interest payable | $ | 229 | $ | 229 | $ | 229 | $ | — | $ | —
+Financial liabilities carried at other than fair value:
+Deposits (d) | $ | 82,894 | $ | 83,115 | $ | — | $ | 83,115 | $ | —
+Borrowings of consolidated securitization entities | $ | 8,915 | $ | 8,944 | $ | — | $ | 6,022 | $ | 2,922
+Senior and subordinated unsecured notes | $ | 7,513 | $ | 7,450 | $ | — | $ | 7,450 | $ | —
+Carrying | Corresponding fair value amount
+At December 31, 2025 ($ in millions) | value | Total | Level 1 | Level 2 | Level 3
+Financial Assets
+Financial assets for which carrying values equal or approximate fair value (a) :
+Cash and equivalents | $ | 14,973 | $ | 14,973 | $ | 14,973 | $ | — | $ | —
+Accrued interest receivable | $ | 27 | $ | 27 | $ | 27 | $ | — | $ | —
+Other assets (b) | $ | 44 | $ | 44 | $ | 44 | $ | — | $ | —
+Financial assets carried at other than fair value:
+Loan receivables, net (c) | $ | 93,364 | $ | 106,591 | $ | — | $ | — | $ | 106,591
+Financial Liabilities
+Financial liabilities for which carrying values equal or approximate fair value (a) :
+Accrued interest payable | $ | 287 | $ | 287 | $ | 287 | $ | — | $ | —
+Financial liabilities carried at other than fair value:
+Deposits (d) | $ | 81,144 | $ | 81,374 | $ | — | $ | 81,374 | $ | —
+Borrowings of consolidated securitization entities | $ | 8,415 | $ | 8,477 | $ | — | $ | 5,559 | $ | 2,918
+Senior and subordinated unsecured notes | $ | 6,767 | $ | 6,870 | $ | — | $ | 6,870 | $ | —
+_______________________
+(a)
+Carrying value approximates fair value as the financial assets and liabilities are liquid in nature or have a short-term maturity.
+(b)
+This balance relates to restricted cash and equivalents, which is included in Other assets in our Condensed Consolidated Statements of Financial Position.
+50
+Table of Contents
+(c)    E
+xcludes financial assets for which we have elected the fair value option. Under certain retail partner program agreements, the expected sales proceeds in the event of a sale of their credit card portfolio may be limited to the amounts owed by our customers, which may be less than the fair value indicated above.
+(d)
+Includes demand deposits with no defined maturity
+.
+Equity Securities Without Readily Determinable Fair Values
+Three months ended
+At or for the periods ended March 31 ($ in millions) | 2026 | 2025
+Carrying value (a) | $ | 268 | $ | 275
+Upward adjustments (b) | $ | — | $ | —
+Downward adjustments (b) | $ | — | $ | —
+_______________________
+(a)
+Carrying value reflects cumulative purchases and sales in addition to upward and downward carrying value changes, and at December 31, 2025 was $
+269
+ million.
+(b)    
+Between January 1, 2018 and March 31, 2026, cumulative upward and downward carrying value adjustments for equity securities held at March 31, 2026 were $
+201
+ million and $(
+10
+) million, respectively.
+NOTE 10.    
+REGULATORY AND CAPITAL ADEQUACY
+At March 31, 2026 and December 31, 2025, Synchrony Financial met all minimum capital requirements and the applicable requirements to be deemed well-capitalized pursuant to Federal Reserve Board regulations. At March 31, 2026 and December 31, 2025, the Bank also met all applicable requirements to be deemed well-capitalized pursuant to OCC regulations and for purposes of the Federal Deposit Insurance Act. There are no conditions or events subsequent to March 31, 2026 that management believes have changed the Company's or the Bank’s capital category.
+The actual capital amounts, ratios and the applicable required minimums of the Company and the Bank are as follows:
+Synchrony Financial
+At March 31, 2026 ($ in millions) | Actual | Minimum for capital adequacy purposes
+Amount | Ratio (a) | Ratio (b)
+Total risk-based capital | $ | 16,339 | 16.0 | 8.0
+Tier 1 risk-based capital | $ | 14,207 | 13.9 | 6.0
+Tier 1 leverage | $ | 14,207 | 12.1 | 4.0
+Common equity Tier 1 Capital | $ | 12,985 | 12.7 | 4.5
+At December 31, 2025 ($ in millions) | Actual | Minimum for capital adequacy purposes
+Amount | Ratio (a) | Ratio (b)
+Total risk-based capital | $ | 16,632 | 15.8 | 8.0
+Tier 1 risk-based capital | $ | 14,464 | 13.8 | 6.0
+Tier 1 leverage | $ | 14,464 | 12.5 | 4.0
+Common equity Tier 1 Capital | $ | 13,242 | 12.6 | 4.5
+51
+Table of Contents
+Synchrony Bank
+At March 31, 2026 ($ in millions) | Actual | Minimum for capital adequacy purposes | Minimum to be well-capitalized under prompt corrective action provisions
+Amount | Ratio (a) | Ratio (b) | Ratio
+Total risk-based capital | $ | 15,943 | 16.4 | 8.0 | 10.0
+Tier 1 risk-based capital | $ | 13,863 | 14.2 | 6.0 | 8.0
+Tier 1 leverage | $ | 13,863 | 12.3 | 4.0 | 5.0
+Common equity Tier 1 capital | $ | 13,863 | 14.2 | 4.5 | 6.5
+At December 31, 2025 ($ in millions) | Actual | Minimum for capital adequacy purposes | Minimum to be well-capitalized under prompt corrective action provisions
+Amount | Ratio (a) | Ratio (b) | Ratio
+Total risk-based capital | $ | 15,844 | 15.8 | 8.0 | 10.0
+Tier 1 risk-based capital | $ | 13,731 | 13.7 | 6.0 | 8.0
+Tier 1 leverage | $ | 13,731 | 12.4 | 4.0 | 5.0
+Common equity Tier 1 capital | $ | 13,731 | 13.7 | 4.5 | 6.5
+_______________________
+(a)
+Capital ratios are calculated based on the Basel III Standardized Approach rules. 
+(b)
+At March 31, 2026 and December 31, 2025, Synchrony Financial and the Bank also must maintain a stress capital buffer or capital conservation buffer, as applicable, in excess of minimum risk-based capital ratios, which exclude the Tier 1 leverage ratio, by at least 
+2.5
+ percentage points to avoid limits on capital distributions and certain discretionary bonus payments to executive officers and similar employees.
+The Bank may pay dividends on its stock, with consent or non-objection from the OCC and the Federal Reserve Board, among other things, if its regulatory capital would not thereby be reduced below the applicable regulatory capital requirements. 
+For additional information on the minimum capital requirements for both Synchrony Financial and the Bank, see "
+Regulation - Regulation Relating to Our Business - Capital for both Savings and Loan Holding Company Regulation and Savings Association Regulation
+", as applicable, in addition to Note 11. 
+Regulatory and Capital Adequacy
+, in our 2025 Form 10-K.
+52
+Table of Contents
+NOTE 11.    
+EARNINGS PER SHARE
+Basic earnings per share is computed by dividing earnings available to common stockholders by the weighted average number of common shares outstanding for the period. Diluted earnings per common share reflects the assumed conversion of all dilutive securities, which are calculated using the treasury stock method.
+The following table presents the calculation of basic and diluted earnings per common share:
+Three months ended March 31,
+($ and shares in millions, except per share data) | 2026 | 2025
+Net earnings | $ | 805 | $ | 757
+Preferred stock dividends | ( 21 ) | ( 21 )
+Net earnings available to common stockholders | $ | 784 | $ | 736
+Weighted average common shares outstanding, basic | 342.4 | 385.2
+Effect of dilutive securities | 3.6 | 4.2
+Weighted average common shares outstanding, dilutive | 346.0 | 389.4
+Earnings per basic common share | $ | 2.29 | $ | 1.91
+Earnings per diluted common share | $ | 2.27 | $ | 1.89
+We have issued stock-based awards under the Synchrony Financial 2024 Long-Term Incentive Plan, along with prior incentive plans. Awards that were considered anti-dilutive and therefore were excluded from the computation of diluted earnings per common share were less than 1 million shares for each of the periods presented.
+NOTE 12.    
+INCOME TAXES
+Unrecognized Tax Benefits
+($ in millions) | March 31, 2026 | December 31, 2025
+Unrecognized tax benefits, excluding related interest expense and penalties (a) | $ | 228 | $ | 218
+Portion that, if recognized, would reduce tax expense and effective tax rate (b) | $ | 180 | $ | 172
+____________________
+(a)
+Interest and penalties related to unrecognized tax benefits were not material for all periods presented.
+(b)
+Comprised of federal unrecognized tax benefits and state and local unrecognized tax benefits net of the effects of associated U.S. federal income taxes. Excludes amounts attributable to any related valuation allowances resulting from associated increases in deferred tax assets.
+We establish a liability that represents the difference between a tax position taken (or expected to be taken) on an income tax return and the amount of taxes recognized in our financial statements. The liability associated with the unrecognized tax benefits is adjusted periodically when new information becomes available. 
+In the current year, the Company executed a Memorandum of Understanding with the IRS to participate voluntarily in the IRS Compliance Assurance Process (“CAP”) program for the 2026 tax year, and thus the tax year is under IRS review. The IRS is also examining our 2025 tax year, and we expect the review will be completed in the current year. Additionally, we are under examination in various states going back to 2019.
+We believe that there are no issues or claims that are likely to significantly impact our results of operations, financial position or cash flows. We further believe that we have made adequate provision for all income tax uncertainties that could result from such examinations.
+53
+Table of Contents
+NOTE 13.    
+SEGMENT REPORTING
+We conduct our operations through a single business segment, which derives interest and fee income earned on our credit products we offer to our customers. There have not been any changes to the basis of segmentation or the measurement of performance as compared to our 2025 Form 10-K.
+The following table presents segment information for the periods presented herein:
+Three months ended March 31,
+($ in millions) | 2026 | 2025
+Interest and fees on loans | $ | 5,413 | $ | 5,312
+Interest on cash and debt securities | 190 | 238
+Total interest income | 5,603 | 5,550
+Total interest expense | 968 | 1,086
+Net interest income | 4,635 | 4,464
+Retailer share arrangements | ( 1,070 ) | ( 895 )
+Reserve build (release) | ( 11 ) | ( 97 )
+Net charge-offs | 1,346 | 1,588
+Provision for credit losses | 1,335 | 1,491
+Other income:
+Other income | 133 | 149
+Total other income | 133 | 149
+Other expense:
+Employee costs | 515 | 506
+Professional fees | 209 | 217
+Marketing and business development | 114 | 116
+Information processing | 262 | 219
+Fraud-related operational losses | 88 | 41
+Other segment items (a) | 128 | 144
+Total other expense | 1,316 | 1,243
+Provision for income taxes | 242 | 227
+Net earnings | $ | 805 | $ | 757
+_____________
+(a)
+Represents the total amount of other expenses included in Net earnings, including postage and various other corporate overhead items such as facilities costs and telephone charges.
+Our segment assets represent our Total assets as presented on the Condensed Consolidated Statements of Financial Position.
+54
+Table of Contents
+NOTE 14.    
+LEGAL PROCEEDINGS AND REGULATORY MATTERS
+In the normal course of business, from time to time, we have been named as a defendant in various legal proceedings, including arbitrations, class actions and other litigation, arising in connection with our business activities. Certain of the legal actions include claims for substantial compensatory and/or punitive damages, or claims for indeterminate amounts of damages. We are also involved, from time to time, in reviews, investigations and proceedings (both formal and informal) by governmental agencies regarding our business (collectively, “regulatory matters”), which could subject us to significant fines, penalties, obligations to change our business practices or other requirements resulting in increased expenses, diminished income and damage to our reputation. We contest liability and/or the amount of damages as appropriate in each pending matter. In accordance with applicable accounting guidance, we establish an accrued liability for legal and regulatory matters when those matters present loss contingencies which are both probable and reasonably estimable.
+Legal proceedings and regulatory matters are subject to many uncertain factors that generally cannot be predicted with assurance, and we may be exposed to losses in excess of any amounts accrued.
+For some matters, we are able to determine that an estimated loss, while not probable, is reasonably possible. For other matters, including those that have not yet progressed through discovery and/or where important factual information and legal issues are unresolved, we are unable to make such an estimate. We currently estimate that the reasonably possible losses for legal proceedings and regulatory matters, whether in excess of a related accrued liability or where there is no accrued liability, and for which we are able to estimate a possible loss, are immaterial. This represents management’s estimate of possible loss with respect to these matters and is based on currently available information. This estimate of possible loss does not represent our potential maximum loss exposure. The legal proceedings and regulatory matters underlying the estimate will change from time to time and actual results may vary significantly from current estimates.
+Our estimate of reasonably possible losses involves significant judgment, given the varying stages of the proceedings, the existence of numerous yet to be resolved issues, the breadth of the claims (often spanning multiple years), unspecified damages and/or the novelty of the legal issues presented. Based on our current knowledge, we do not believe that we are a party to any pending legal proceeding or regulatory matters that would have a material adverse effect on our condensed consolidated financial condition or liquidity. However, in light of the uncertainties involved in such matters, the ultimate outcome of a particular matter could be material to our operating results for a particular period depending on, among other factors, the size of the loss or liability imposed and the level of our earnings for that period, and could adversely affect our business and reputation.
+55
+Table of Contents
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Market risk refers to the risk that a change in the level of one or more market prices, rates, indices, correlations or other market factors will result in losses for a position or portfolio. We are exposed to market risk primarily from changes in interest rates.
+We borrow money from a variety of depositors and institutions in order to provide loans to our customers. Changes in market interest rates cause our net interest income to increase or decrease, as some of our assets and liabilities carry interest rates that fluctuate with market benchmarks. The interest rate benchmark for our floating rate assets is generally the prime rate, and the interest rate benchmark for our floating rate liabilities is generally either the Secured Overnight Financing Rate ("SOFR"), U.S. Treasury bills, or the federal funds rate. The prime rate and the SOFR, U.S. Treasury bills or federal funds rate could reset at different times or could diverge, leading to mismatches in the interest rates on our floating rate assets and floating rate liabilities. 
+The following table presents the approximate net interest income impacts forecasted over the next twelve months from an immediate and parallel change in interest rates affecting all interest rate sensitive assets and liabilities at March 31, 2026:
+Basis Point Change | At March 31, 2026
+($ in millions)
+-100 basis points | $ | (134)
++100 basis points | $ | 56
+For a more detailed discussion of our exposure to market risk, refer to “
+Management's Discussion and Analysis—Quantitative and Qualitative Disclosures about Market Risk
+” in our 2025 Form 10-K.
+ITEM 4. CONTROLS AND PROCEDURES
+Under the direction of our Chief Executive Officer and Chief Financial Officer, we evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), and based on such evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of March 31, 2026. 
+No change in internal control over financial reporting occurred during the fiscal quarter ended March 31, 2026 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+56
+Table of Contents
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+For a description of legal proceedings, see Note 14. 
+Legal Proceedings and Regulatory Matters 
+to our condensed consolidated financial statements in Part 1, Item 1 of this Quarterly Report on Form 10-Q.
+ITEM 1A. RISK FACTORS
+There have been no material changes to the risk factors included in our 2025 Form 10-K under the heading 
+“Risk Factors Relating to Our Business”
+ and 
+“Risk Factors Relating to Regulation”.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+The table below sets forth information regarding purchases of our common stock primarily related to our share repurchase program that were made by us or on our behalf during the three months ended March 31, 2026:
+($ in millions, except per share data) | Total Number of Shares Purchased (a) | Average Price Paid Per Share (b) | Total Number of Shares Purchased as Part of Publicly Announced Programs | Maximum Dollar Value of Shares That May Yet Be Purchased Under the Programs (b)(c)
+January 1 - 31, 2026 | 2,053,670 | $ | 74.71 | 1,301,815 | $ | 1,091.7
+February 1 - 28, 2026 | 11,445,231 | 72.03 | 11,159,080 | 287.0
+March 1 - 31, 2026 | 230 | 65.14 | — | 287.0
+Total | 13,499,131 | $ | 72.44 | 12,460,895 | $ | 287.0
+_______________________
+(a)
+Includes 751,855 shares, 286,151 shares and 230 shares withheld in January, February and March, respectively, to offset tax withholding obligations that occur upon the delivery of outstanding shares underlying performance stock awards, restricted stock awards or upon the exercise of stock options.
+(b)
+Amounts exclude commission costs.
+(c)
+Represents authorized amounts remaining under the 2025 share repurchase plan previously announced. In April 2026, the Company announced that the Board approved a new share repurchase program of up to $6.5 billion of the Company’s common stock, which commences in the second quarter of 2026 and, in a change from our prior share repurchase programs, does not have an expiration date. The new share repurchase program replaces the Company’s prior program, which was scheduled to expire on June 30, 2026.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+57
+Table of Contents
+ITEM 5. OTHER INFORMATION
+Rule 10b5-1 Trading Plans
+During the three months ended March 31, 2026, certain of our directors and executive officers adopted or terminated trading plans intended to satisfy the affirmative defense conditions of Rule 10b5-1(c). Information regarding these Rule 10b5-1 trading arrangements is presented in the table below. No other directors or officers of the Company 
+adopted,
+ modified or 
+terminated
+ a "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement," as each such term is defined in item 408(a) of Regulation S-K, during the three months ended March 31, 2026.
+Name | Title | Action Taken (Adoption or Termination Date) | Duration (1) | Aggregate Number of Securities to be Sold
+Jonathan S. Mothner | Executive Vice President, Chief Risk and Legal Officer | Adoption ( 2/2/2026 ) | 2/1/2027 | 51,258
+Jeffrey G. Naylor | Director | Adoption ( 2/4/2026 ) | 3/31/2027 | 10,000
+______________________
+(1)
+Pursuant to the terms of each plan and subject to compliance with Rule 10b5-1, each plan may terminate at an earlier date under certain circumstances, including if all trades are executed or all orders related to the trades under the relevant plan expire.
+58
+Table of Contents
+ITEM 6. EXHIBITS 
+EXHIBIT INDEX
+Exhibit Number | Description
+3.1 | Second Amended and Restated Certificate of Incorporation of Synchrony Financial (incorporated by reference to Exhibit 3.1 of Form 8-K filed by Synchrony Financial on June 13, 2024)
+3.2 | Amended and Restated Bylaws of Synchrony Financial (incorporated by reference to Exhibit 3.1 of Form 8-K filed by Synchrony Financial on November 1, 2016)
+4.1 | Fifteenth Supplemental Indenture, dated as of February 25, 2026, between Synchrony Financial and The Bank of New York Mellon, as Trustee (incorporated by reference to Exhibit 4.1 on Form 8-K filed by Synchrony Financial on February 25, 2026)
+4.2 | Form of 4.947% Fixed-to-Floating Rate Senior Notes due 2032 (incorporated by reference to Exhibit 4.1 of Form 8-K filed by Synchrony Financial on February 25, 2026)
+31(a)* | Certification Pursuant to Rules 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as Amended
+31(b)* | Certification Pursuant to Rules 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as Amended
+32* | Certification Pursuant to 18 U.S.C. Section 1350
+101.INS | XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH | XBRL Taxonomy Extension Schema Document
+101.CAL | XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF | XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB | XBRL Taxonomy Extension Label Linkbase Document
+101.PRE | XBRL Taxonomy Extension Presentation Linkbase Document
+104 | The cover page from the Company's Quarterly Report on Form 10-Q for the quarter ended March 31, 2026, formatted in Inline XBRL (included as Exhibit 101)
+______________________ 
+*
+Filed electronically herewith.
+59
+Table of Contents
+Signatures 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+Synchrony Financial
+(Registrant)
+April 23, 2026 | /s/ Brian J. Wenzel Sr.
+Date | Brian J. Wenzel Sr. Executive Vice President and Chief Financial Officer (Duly Authorized Officer and Principal Financial Officer)
+60
